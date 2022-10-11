@@ -13,7 +13,7 @@ export const StatsView = {
     },{
         height: 5
     },{
-        height: 500,
+        height: 350,
         cols:[{
             view: 'template',
             id: 'sts_barchart',

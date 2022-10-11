@@ -1,0 +1,8225 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05324,38.85897 ]
+    },
+    "properties": {
+    "ID":31000,
+    "name":"Eads St & 15th St S",
+    "count":" 376 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04924,38.85642 ]
+    },
+    "properties": {
+    "ID":31002,
+    "name":"Crystal Dr & 20th St S",
+    "count":" 519 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04941,38.86105 ]
+    },
+    "properties": {
+    "ID":31003,
+    "name":"Crystal Dr & 15th St S",
+    "count":" 543 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05949,38.85787 ]
+    },
+    "properties": {
+    "ID":31004,
+    "name":"Aurora Hills Cmty Ctr / 18th St & S Hayes St",
+    "count":" 271 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05993,38.86230 ]
+    },
+    "properties": {
+    "ID":31005,
+    "name":"Pentagon City Metro / 12th St & S Hayes St",
+    "count":" 697 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06341,38.86331 ]
+    },
+    "properties": {
+    "ID":31006,
+    "name":"Army Navy Dr & S Joyce St",
+    "count":" 641 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05169,38.85777 ]
+    },
+    "properties": {
+    "ID":31007,
+    "name":"Crystal City Metro / 18th St & S Bell St",
+    "count":" 707 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05149,38.84845 ]
+    },
+    "properties": {
+    "ID":31009,
+    "name":"Crystal Dr & 27th St S",
+    "count":" 476 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05020,38.84260 ]
+    },
+    "properties": {
+    "ID":31010,
+    "name":"S Glebe Rd & Potomac Ave",
+    "count":" 302 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04972,38.85293 ]
+    },
+    "properties": {
+    "ID":31011,
+    "name":"Crystal Dr & 23rd St S",
+    "count":" 559 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05152,38.85068 ]
+    },
+    "properties": {
+    "ID":31012,
+    "name":"Clark St & 26th St S",
+    "count":" 113 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05341,38.85438 ]
+    },
+    "properties": {
+    "ID":31013,
+    "name":"Eads St & 22nd St S",
+    "count":" 313 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07095,38.89734 ]
+    },
+    "properties": {
+    "ID":31014,
+    "name":"Lynn St & 19th St North",
+    "count":" 782 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07229,38.89460 ]
+    },
+    "properties": {
+    "ID":31015,
+    "name":"Wilson Blvd & Ft Myer Dr",
+    "count":" 273 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07638,38.89344 ]
+    },
+    "properties": {
+    "ID":31016,
+    "name":"Clarendon Blvd & Pierce St",
+    "count":" 327 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08460,38.89170 ]
+    },
+    "properties": {
+    "ID":31017,
+    "name":"Wilson Blvd & N Uhle St",
+    "count":" 140 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07938,38.89218 ]
+    },
+    "properties": {
+    "ID":31018,
+    "name":"Rhodes St & 16th St N",
+    "count":" 73 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09186,38.88939 ]
+    },
+    "properties": {
+    "ID":31019,
+    "name":"Wilson Blvd & N Edgewood St",
+    "count":" 262 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08890,38.89041 ]
+    },
+    "properties": {
+    "ID":31020,
+    "name":"Wilson Blvd & N Franklin Rd",
+    "count":" 196 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09308,38.88810 ]
+    },
+    "properties": {
+    "ID":31021,
+    "name":"Clarendon Blvd & N Fillmore St",
+    "count":" 299 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09526,38.88701 ]
+    },
+    "properties": {
+    "ID":31022,
+    "name":"Clarendon Metro / Wilson Blvd & N Highland St",
+    "count":" 690 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09775,38.88580 ]
+    },
+    "properties": {
+    "ID":31023,
+    "name":"Fairfax Dr & Wilson Blvd",
+    "count":" 238 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10317,38.88278 ]
+    },
+    "properties": {
+    "ID":31024,
+    "name":"Virginia Square Metro / Monroe St & 9th St N",
+    "count":" 391 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10782,38.88397 ]
+    },
+    "properties": {
+    "ID":31025,
+    "name":"Central Library / Quincy St & 10th St N",
+    "count":" 204 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09349,38.88473 ]
+    },
+    "properties": {
+    "ID":31026,
+    "name":"Washington Blvd & 10th St N",
+    "count":" 280 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07860,38.89405 ]
+    },
+    "properties": {
+    "ID":31027,
+    "name":"Wilson Blvd & N Quinn St",
+    "count":" 325 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08606,38.89324 ]
+    },
+    "properties": {
+    "ID":31028,
+    "name":"N Veitch St & Key Blvd",
+    "count":" 78 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08649,38.89693 ]
+    },
+    "properties": {
+    "ID":31029,
+    "name":"N Veitch St & 20th St N",
+    "count":" 228 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08900,38.89594 ]
+    },
+    "properties": {
+    "ID":31030,
+    "name":"Langston Blvd & N Adams St",
+    "count":" 375 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08094,38.89054 ]
+    },
+    "properties": {
+    "ID":31031,
+    "name":"15th St & N Scott St",
+    "count":" 288 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09079,38.88081 ]
+    },
+    "properties": {
+    "ID":31032,
+    "name":"Washington Blvd & 7th St N",
+    "count":" 102 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10099,38.85034 ]
+    },
+    "properties": {
+    "ID":31033,
+    "name":"Barcroft Community Center",
+    "count":" 122 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10937,38.88262 ]
+    },
+    "properties": {
+    "ID":31034,
+    "name":"Fairfax Dr & N Randolph St",
+    "count":" 377 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10772,38.87639 ]
+    },
+    "properties": {
+    "ID":31035,
+    "name":"N Quincy St & Glebe Rd",
+    "count":" 150 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.12070,38.87887 ]
+    },
+    "properties": {
+    "ID":31036,
+    "name":"George Mason Dr & Wilson Blvd",
+    "count":" 115 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11177,38.88104 ]
+    },
+    "properties": {
+    "ID":31037,
+    "name":"Ballston Metro / Stuart St & 9th St N",
+    "count":" 410 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11682,38.88392 ]
+    },
+    "properties": {
+    "ID":31038,
+    "name":"Glebe Rd & 11th St N",
+    "count":" 135 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10784,38.87999 ]
+    },
+    "properties": {
+    "ID":31039,
+    "name":"Wilson Blvd & N Quincy St",
+    "count":" 293 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10033,38.88469 ]
+    },
+    "properties": {
+    "ID":31040,
+    "name":"GMU/Fairfax Dr & Kenmore St",
+    "count":" 204 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04036,38.80312 ]
+    },
+    "properties": {
+    "ID":31041,
+    "name":"Prince St & Union St",
+    "count":" 422 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04336,38.80471 ]
+    },
+    "properties": {
+    "ID":31042,
+    "name":"Market Square / King St & Royal St",
+    "count":" 366 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04463,38.81074 ]
+    },
+    "properties": {
+    "ID":31043,
+    "name":"St Asaph & Pendleton St",
+    "count":" 206 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04989,38.80531 ]
+    },
+    "properties": {
+    "ID":31044,
+    "name":"King St & Patrick St",
+    "count":" 167 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05293,38.80565 ]
+    },
+    "properties": {
+    "ID":31045,
+    "name":"Commerce St & Fayette St",
+    "count":" 146 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05027,38.81146 ]
+    },
+    "properties": {
+    "ID":31046,
+    "name":"Henry St & Pendleton St",
+    "count":" 92 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05281,38.81457 ]
+    },
+    "properties": {
+    "ID":31047,
+    "name":"Braddock Rd Metro North",
+    "count":" 195 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06063,38.80576 ]
+    },
+    "properties": {
+    "ID":31048,
+    "name":"King St Metro South",
+    "count":" 215 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11390,38.88367 ]
+    },
+    "properties": {
+    "ID":31049,
+    "name":"Utah St & 11th St N",
+    "count":" 171 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08779,38.88498 ]
+    },
+    "properties": {
+    "ID":31050,
+    "name":"Barton St & 10th St N",
+    "count":" 97 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07730,38.88936 ]
+    },
+    "properties": {
+    "ID":31051,
+    "name":"Arlington Blvd & N Queen St",
+    "count":" 174 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05053,38.84401 ]
+    },
+    "properties": {
+    "ID":31052,
+    "name":"Potomac Ave & 35th St S",
+    "count":" 307 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08032,38.86385 ]
+    },
+    "properties": {
+    "ID":31053,
+    "name":"Columbia Pike & S Courthouse Rd",
+    "count":" 102 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11254,38.84713 ]
+    },
+    "properties": {
+    "ID":31054,
+    "name":"Wakefield High School",
+    "count":" 85 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06928,38.84623 ]
+    },
+    "properties": {
+    "ID":31055,
+    "name":"28th St & S Meade St",
+    "count":" 178 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07511,38.84798 ]
+    },
+    "properties": {
+    "ID":31056,
+    "name":"Troy St & 26th St S",
+    "count":" 143 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08593,38.84440 ]
+    },
+    "properties": {
+    "ID":31057,
+    "name":"Four Mile Run Dr & S Shirlington Rd",
+    "count":" 92 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09369,38.86034 ]
+    },
+    "properties": {
+    "ID":31058,
+    "name":"Columbia Pike & Monroe St",
+    "count":" 103 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09542,38.84735 ]
+    },
+    "properties": {
+    "ID":31059,
+    "name":"Four Mile Run Dr & S Walter Reed Dr",
+    "count":" 98 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08956,38.84232 ]
+    },
+    "properties": {
+    "ID":31060,
+    "name":"S Arlington Mill Dr & Campbell Ave",
+    "count":" 262 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08491,38.84846 ]
+    },
+    "properties": {
+    "ID":31061,
+    "name":"Kenmore St & 24th St S",
+    "count":" 77 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06714,38.89655 ]
+    },
+    "properties": {
+    "ID":31062,
+    "name":"Roosevelt Island",
+    "count":" 839 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10503,38.85225 ]
+    },
+    "properties": {
+    "ID":31063,
+    "name":"S George Mason & Four Mile Run Dr",
+    "count":" 79 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03951,38.86503 ]
+    },
+    "properties": {
+    "ID":31064,
+    "name":"Gravelly Point",
+    "count":" 1,302 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08602,38.88071 ]
+    },
+    "properties": {
+    "ID":31065,
+    "name":"Pershing Dr & Wayne St",
+    "count":" 130 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07231,38.86727 ]
+    },
+    "properties": {
+    "ID":31066,
+    "name":"Columbia Pike & S Orme St",
+    "count":" 110 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08660,38.86248 ]
+    },
+    "properties": {
+    "ID":31067,
+    "name":"Columbia Pike & S Walter Reed Dr",
+    "count":" 154 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11158,38.85635 ]
+    },
+    "properties": {
+    "ID":31068,
+    "name":"Arlington Mill Cmty Center / Columbia Pike & S Dinwiddie St",
+    "count":" 190 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10792,38.87181 ]
+    },
+    "properties": {
+    "ID":31069,
+    "name":"Pershing Dr & N George Mason Dr",
+    "count":" 121 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08924,38.87375 ]
+    },
+    "properties": {
+    "ID":31070,
+    "name":"Arlington Blvd & Fillmore St",
+    "count":" 95 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05429,38.86276 ]
+    },
+    "properties": {
+    "ID":31071,
+    "name":"Eads St & 12th St S",
+    "count":" 716 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09348,38.83785 ]
+    },
+    "properties": {
+    "ID":31072,
+    "name":"31st St & S Woodrow St",
+    "count":" 49 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08210,38.87323 ]
+    },
+    "properties": {
+    "ID":31073,
+    "name":"Washington Blvd & Walter Reed Dr ",
+    "count":" 118 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09560,38.86943 ]
+    },
+    "properties": {
+    "ID":31074,
+    "name":"TJ Cmty Ctr / 2nd St & S Old Glebe Rd",
+    "count":" 199 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07613,38.86647 ]
+    },
+    "properties": {
+    "ID":31075,
+    "name":"Rolfe St & 9th St S",
+    "count":" 128 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08868,38.84064 ]
+    },
+    "properties": {
+    "ID":31076,
+    "name":"S Randolph St & Campbell Ave",
+    "count":" 114 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07130,38.88992 ]
+    },
+    "properties": {
+    "ID":31077,
+    "name":"Iwo Jima Memorial / Meade & 14th St N",
+    "count":" 655 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10450,38.86944 ]
+    },
+    "properties": {
+    "ID":31078,
+    "name":"Arlington Blvd & S George Mason Dr",
+    "count":" 55 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09169,38.89494 ]
+    },
+    "properties": {
+    "ID":31079,
+    "name":"Langston Blvd & N Cleveland St",
+    "count":" 234 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08085,38.89762 ]
+    },
+    "properties": {
+    "ID":31080,
+    "name":"Langston Blvd & N Scott St",
+    "count":" 199 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06086,38.80438 ]
+    },
+    "properties": {
+    "ID":31081,
+    "name":"Duke St & John Carlyle St",
+    "count":" 138 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06895,38.80110 ]
+    },
+    "properties": {
+    "ID":31082,
+    "name":"Eisenhower Ave & Mill Race Ln",
+    "count":" 178 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04749,38.82175 ]
+    },
+    "properties": {
+    "ID":31083,
+    "name":"Potomac Greens Dr & Slaters Ln",
+    "count":" 221 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06357,38.80267 ]
+    },
+    "properties": {
+    "ID":31084,
+    "name":"Ballenger Ave & Dulaney St",
+    "count":" 157 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05762,38.82006 ]
+    },
+    "properties": {
+    "ID":31085,
+    "name":"Mount Vernon Ave & E Nelson Ave",
+    "count":" 135 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05855,38.82595 ]
+    },
+    "properties": {
+    "ID":31086,
+    "name":"Mount Vernon Ave & E Del Ray Ave",
+    "count":" 202 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05309,38.82093 ]
+    },
+    "properties": {
+    "ID":31087,
+    "name":"Monroe Ave & Leslie Ave",
+    "count":" 155 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05982,38.83307 ]
+    },
+    "properties": {
+    "ID":31088,
+    "name":"Mount Vernon Ave & Kennedy St",
+    "count":" 176 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08481,38.89060 ]
+    },
+    "properties": {
+    "ID":31089,
+    "name":"Court House Metro / 15th St & N Uhle St",
+    "count":" 664 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05003,38.86555 ]
+    },
+    "properties": {
+    "ID":31090,
+    "name":"Long Bridge Park / Long Bridge Dr & 6th St S",
+    "count":" 122 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06328,38.85926 ]
+    },
+    "properties": {
+    "ID":31091,
+    "name":"Joyce St & 16th St S",
+    "count":" 276 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10456,38.89646 ]
+    },
+    "properties": {
+    "ID":31092,
+    "name":"Langston Blvd & N Monroe St",
+    "count":" 88 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07832,38.89898 ]
+    },
+    "properties": {
+    "ID":31093,
+    "name":"21st St & N Pierce St",
+    "count":" 209 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09715,38.89537 ]
+    },
+    "properties": {
+    "ID":31094,
+    "name":"Langston Blvd & N Kirkwood St",
+    "count":" 74 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06813,38.86217 ]
+    },
+    "properties": {
+    "ID":31095,
+    "name":"Army Navy Dr & S Nash St",
+    "count":" 46 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08787,38.86613 ]
+    },
+    "properties": {
+    "ID":31096,
+    "name":"Walter Reed Dr & 8th St S",
+    "count":" 94 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04410,38.81271 ]
+    },
+    "properties": {
+    "ID":31097,
+    "name":"Saint Asaph St & Madison St",
+    "count":" 207 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05981,38.80703 ]
+    },
+    "properties": {
+    "ID":31098,
+    "name":"King St Metro North / Cameron St",
+    "count":" 318 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04947,38.81349 ]
+    },
+    "properties": {
+    "ID":31099,
+    "name":"Madison St & N Henry St",
+    "count":" 89 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04290,38.90029 ]
+    },
+    "properties": {
+    "ID":31100,
+    "name":"19th St & Pennsylvania Ave NW",
+    "count":" 686 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03208,38.91777 ]
+    },
+    "properties": {
+    "ID":31101,
+    "name":"14th & V St NW",
+    "count":" 2,879 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02782,38.92946 ]
+    },
+    "properties": {
+    "ID":31102,
+    "name":"11th & Kenyon St NW",
+    "count":" 1,452 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04251,38.92287 ]
+    },
+    "properties": {
+    "ID":31104,
+    "name":"Adams Mill & Columbia Rd NW",
+    "count":" 1,986 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03220,38.92679 ]
+    },
+    "properties": {
+    "ID":31105,
+    "name":"14th & Harvard St NW",
+    "count":" 556 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04764,38.92320 ]
+    },
+    "properties": {
+    "ID":31106,
+    "name":"Calvert & Biltmore St NW",
+    "count":" 613 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03879,38.93191 ]
+    },
+    "properties": {
+    "ID":31107,
+    "name":"Lamont & Mt Pleasant NW",
+    "count":" 1,480 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01790,38.87670 ]
+    },
+    "properties": {
+    "ID":31108,
+    "name":"4th & M St SW",
+    "count":" 2,535 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02216,38.91565 ]
+    },
+    "properties": {
+    "ID":31109,
+    "name":"7th & T St NW",
+    "count":" 1,116 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04460,38.91540 ]
+    },
+    "properties": {
+    "ID":31110,
+    "name":"20th St & Florida Ave NW",
+    "count":" 1,532 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02590,38.91720 ]
+    },
+    "properties": {
+    "ID":31111,
+    "name":"10th & U St NW",
+    "count":" 805 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04335,38.92787 ]
+    },
+    "properties": {
+    "ID":31112,
+    "name":"Harvard St & Adams Mill Rd NW",
+    "count":" 495 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04368,38.92067 ]
+    },
+    "properties": {
+    "ID":31113,
+    "name":"Columbia Rd & Belmont St NW",
+    "count":" 1,152 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04157,38.91880 ]
+    },
+    "properties": {
+    "ID":31114,
+    "name":"18th St & Wyoming Ave NW",
+    "count":" 2,329 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02379,38.92812 ]
+    },
+    "properties": {
+    "ID":31115,
+    "name":"Columbia Rd & Georgia Ave NW",
+    "count":" 1,115 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04063,38.91776 ]
+    },
+    "properties": {
+    "ID":31116,
+    "name":"California St & Florida Ave NW",
+    "count":" 1,873 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03518,38.92335 ]
+    },
+    "properties": {
+    "ID":31117,
+    "name":"15th & Euclid St NW",
+    "count":" 1,081 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01597,38.91762 ]
+    },
+    "properties": {
+    "ID":31118,
+    "name":"3rd & Elm St NW",
+    "count":" 1,125 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03186,38.92107 ]
+    },
+    "properties": {
+    "ID":31119,
+    "name":"14th & Belmont St NW",
+    "count":" 1,534 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02567,38.92039 ]
+    },
+    "properties": {
+    "ID":31120,
+    "name":"10th & Florida Ave NW",
+    "count":" 1,432 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05005,38.92358 ]
+    },
+    "properties": {
+    "ID":31121,
+    "name":"Calvert St & Woodley Pl NW",
+    "count":" 887 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03625,38.92888 ]
+    },
+    "properties": {
+    "ID":31122,
+    "name":"16th & Irving St NW",
+    "count":" 922 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03237,38.92529 ]
+    },
+    "properties": {
+    "ID":31123,
+    "name":"14th & Girard St NW",
+    "count":" 1,047 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03223,38.92858 ]
+    },
+    "properties": {
+    "ID":31124,
+    "name":"14th & Irving St NW",
+    "count":" 1,841 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03445,38.91902 ]
+    },
+    "properties": {
+    "ID":31125,
+    "name":"15th & W St NW",
+    "count":" 2,263 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02711,38.92563 ]
+    },
+    "properties": {
+    "ID":31126,
+    "name":"11th & Girard St NW",
+    "count":" 1,185 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04885,38.89893 ]
+    },
+    "properties": {
+    "ID":31127,
+    "name":"22nd & H St NW",
+    "count":" 732 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05027,38.90530 ]
+    },
+    "properties": {
+    "ID":31128,
+    "name":"23rd & M St NW",
+    "count":" 1,990 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03338,38.89646 ]
+    },
+    "properties": {
+    "ID":31129,
+    "name":"15th St & Pennsylvania Ave NW",
+    "count":" 2,165 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02160,38.91417 ]
+    },
+    "properties": {
+    "ID":31130,
+    "name":"7th & S St NW",
+    "count":" 1,143 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03269,38.93439 ]
+    },
+    "properties": {
+    "ID":31131,
+    "name":"14th & Otis Pl NW",
+    "count":" 1,118 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02963,38.91692 ]
+    },
+    "properties": {
+    "ID":31132,
+    "name":"13th & U St NW",
+    "count":" 1,642 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04547,38.91805 ]
+    },
+    "properties": {
+    "ID":31133,
+    "name":"20th & Columbia Rd NW",
+    "count":" 1,249 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02269,38.91773 ]
+    },
+    "properties": {
+    "ID":31134,
+    "name":"8th & V St NW",
+    "count":" 1,155 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03665,38.92611 ]
+    },
+    "properties": {
+    "ID":31135,
+    "name":"16th & Harvard St NW",
+    "count":" 1,251 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04439,38.91010 ]
+    },
+    "properties": {
+    "ID":31200,
+    "name":"Massachusetts Ave & Dupont Circle NW",
+    "count":" 2,770 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03442,38.90980 ]
+    },
+    "properties": {
+    "ID":31201,
+    "name":"15th & P St NW",
+    "count":" 3,570 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03199,38.91304 ]
+    },
+    "properties": {
+    "ID":31202,
+    "name":"14th & R St NW",
+    "count":" 2,651 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03230,38.90860 ]
+    },
+    "properties": {
+    "ID":31203,
+    "name":"14th & Rhode Island Ave NW",
+    "count":" 2,426 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04499,38.89630 ]
+    },
+    "properties": {
+    "ID":31204,
+    "name":"20th & E St NW",
+    "count":" 847 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04644,38.90071 ]
+    },
+    "properties": {
+    "ID":31205,
+    "name":"21st & I St NW",
+    "count":" 1,190 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04360,38.89520 ]
+    },
+    "properties": {
+    "ID":31206,
+    "name":"19th & E Street NW",
+    "count":" 202 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02221,38.92488 ]
+    },
+    "properties": {
+    "ID":31207,
+    "name":"Georgia Ave & Fairmont St NW",
+    "count":" 479 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00370,38.87631 ]
+    },
+    "properties": {
+    "ID":31208,
+    "name":"M St & New Jersey Ave SE",
+    "count":" 811 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00580,38.87410 ]
+    },
+    "properties": {
+    "ID":31209,
+    "name":"1st & N St SE",
+    "count":" 1,277 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05556,38.89730 ]
+    },
+    "properties": {
+    "ID":31211,
+    "name":"Kennedy Center",
+    "count":" 566 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04731,38.90571 ]
+    },
+    "properties": {
+    "ID":31212,
+    "name":"New Hampshire Ave & Ward Pl NW",
+    "count":" 2,332 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03862,38.90275 ]
+    },
+    "properties": {
+    "ID":31213,
+    "name":"17th & K St NW",
+    "count":" 1,520 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03869,38.91210 ]
+    },
+    "properties": {
+    "ID":31214,
+    "name":"17th & Corcoran St NW",
+    "count":" 2,275 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05914,38.90231 ]
+    },
+    "properties": {
+    "ID":31215,
+    "name":"Georgetown Harbor / 30th St NW",
+    "count":" 1,422 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03169,38.89963 ]
+    },
+    "properties": {
+    "ID":31216,
+    "name":"14th St & New York Ave NW",
+    "count":" 857 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02824,38.88629 ]
+    },
+    "properties": {
+    "ID":31217,
+    "name":"USDA / 12th & C St SW",
+    "count":" 857 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02224,38.88627 ]
+    },
+    "properties": {
+    "ID":31218,
+    "name":"L'Enfant Plaza / 7th & C St SW",
+    "count":" 801 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02601,38.89302 ]
+    },
+    "properties": {
+    "ID":31219,
+    "name":"10th St & Constitution Ave NW",
+    "count":" 2,126 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04659,38.89491 ]
+    },
+    "properties": {
+    "ID":31220,
+    "name":"US Dept of State / Virginia Ave & 21st St NW",
+    "count":" 587 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04177,38.90507 ]
+    },
+    "properties": {
+    "ID":31221,
+    "name":"18th & M St NW",
+    "count":" 1,493 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03335,38.89903 ]
+    },
+    "properties": {
+    "ID":31222,
+    "name":"New York Ave & 15th St NW",
+    "count":" 1,454 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02227,38.90573 ]
+    },
+    "properties": {
+    "ID":31223,
+    "name":"Convention Center / 7th & M St NW",
+    "count":" 1,397 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04245,38.90373 ]
+    },
+    "properties": {
+    "ID":31224,
+    "name":"18th & L St NW",
+    "count":" 1,043 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06269,38.90374 ]
+    },
+    "properties": {
+    "ID":31225,
+    "name":"C & O Canal & Wisconsin Ave NW",
+    "count":" 1,285 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06820,38.91645 ]
+    },
+    "properties": {
+    "ID":31226,
+    "name":"34th St & Wisconsin Ave NW",
+    "count":" 620 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02983,38.90028 ]
+    },
+    "properties": {
+    "ID":31227,
+    "name":"13th St & New York Ave NW",
+    "count":" 972 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02308,38.89970 ]
+    },
+    "properties": {
+    "ID":31228,
+    "name":"8th & H St NW",
+    "count":" 2,016 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03825,38.91555 ]
+    },
+    "properties": {
+    "ID":31229,
+    "name":"New Hampshire Ave & T St NW",
+    "count":" 3,731 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02793,38.89833 ]
+    },
+    "properties": {
+    "ID":31230,
+    "name":"Metro Center / 12th & G St NW",
+    "count":" 1,697 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03162,38.89452 ]
+    },
+    "properties": {
+    "ID":31231,
+    "name":"14th & D St NW / Ronald Reagan Building",
+    "count":" 1,235 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02219,38.89729 ]
+    },
+    "properties": {
+    "ID":31232,
+    "name":"7th & F St NW / National Portrait Gallery",
+    "count":" 2,390 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03833,38.90207 ]
+    },
+    "properties": {
+    "ID":31233,
+    "name":"17th & K St NW / Farragut Square",
+    "count":" 1,265 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04479,38.90890 ]
+    },
+    "properties": {
+    "ID":31234,
+    "name":"20th & O St NW / Dupont South",
+    "count":" 1,681 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04360,38.89231 ]
+    },
+    "properties": {
+    "ID":31235,
+    "name":"19th St & Constitution Ave NW",
+    "count":" 810 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07165,38.90776 ]
+    },
+    "properties": {
+    "ID":31236,
+    "name":"37th & O St NW / Georgetown University",
+    "count":" 1,304 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05348,38.90383 ]
+    },
+    "properties": {
+    "ID":31237,
+    "name":"25th St & Pennsylvania Ave NW",
+    "count":" 1,705 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03191,38.89815 ]
+    },
+    "properties": {
+    "ID":31238,
+    "name":"14th & G St NW",
+    "count":" 1,129 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03982,38.90599 ]
+    },
+    "properties": {
+    "ID":31239,
+    "name":"Rhode Island & Connecticut Ave NW",
+    "count":" 1,423 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04656,38.88412 ]
+    },
+    "properties": {
+    "ID":31240,
+    "name":"Ohio Dr & West Basin Dr SW / MLK & FDR Memorials",
+    "count":" 1,656 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03250,38.90590 ]
+    },
+    "properties": {
+    "ID":31241,
+    "name":"Thomas Circle",
+    "count":" 2,517 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04154,38.89967 ]
+    },
+    "properties": {
+    "ID":31242,
+    "name":"18th St & Pennsylvania Ave NW",
+    "count":" 1,110 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01769,38.88637 ]
+    },
+    "properties": {
+    "ID":31243,
+    "name":"4th & C St SW",
+    "count":" 1,981 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01745,38.88411 ]
+    },
+    "properties": {
+    "ID":31244,
+    "name":"4th & E St SW",
+    "count":" 1,260 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02220,38.91272 ]
+    },
+    "properties": {
+    "ID":31245,
+    "name":"7th & R St NW / Shaw Library",
+    "count":" 1,509 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05689,38.90513 ]
+    },
+    "properties": {
+    "ID":31246,
+    "name":"M St & Pennsylvania Ave NW",
+    "count":" 2,180 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03243,38.88855 ]
+    },
+    "properties": {
+    "ID":31247,
+    "name":"Jefferson Dr & 14th St SW",
+    "count":" 4,454 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02869,38.88877 ]
+    },
+    "properties": {
+    "ID":31248,
+    "name":"Smithsonian-National Mall / Jefferson Dr & 12th St SW",
+    "count":" 3,800 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03741,38.87982 ]
+    },
+    "properties": {
+    "ID":31249,
+    "name":"Jefferson Memorial",
+    "count":" 2,431 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04481,38.90357 ]
+    },
+    "properties": {
+    "ID":31250,
+    "name":"20th & L St NW",
+    "count":" 1,106 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02841,38.90381 ]
+    },
+    "properties": {
+    "ID":31251,
+    "name":"12th & L St NW",
+    "count":" 1,277 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04658,38.90154 ]
+    },
+    "properties": {
+    "ID":31252,
+    "name":"21st St & Pennsylvania Ave NW",
+    "count":" 675 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04339,38.90220 ]
+    },
+    "properties": {
+    "ID":31253,
+    "name":"19th & K St NW",
+    "count":" 815 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03354,38.90200 ]
+    },
+    "properties": {
+    "ID":31254,
+    "name":"15th & K St NW",
+    "count":" 947 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05149,38.90660 ]
+    },
+    "properties": {
+    "ID":31255,
+    "name":"24th & N St NW",
+    "count":" 769 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02605,38.89591 ]
+    },
+    "properties": {
+    "ID":31256,
+    "name":"10th & E St NW",
+    "count":" 1,635 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04890,38.90089 ]
+    },
+    "properties": {
+    "ID":31257,
+    "name":"22nd & I St NW / Foggy Bottom",
+    "count":" 1,704 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04944,38.88826 ]
+    },
+    "properties": {
+    "ID":31258,
+    "name":"Lincoln Memorial",
+    "count":" 4,664 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04513,38.89472 ]
+    },
+    "properties": {
+    "ID":31259,
+    "name":"20th St & Virginia Ave NW",
+    "count":" 315 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04986,38.89611 ]
+    },
+    "properties": {
+    "ID":31260,
+    "name":"23rd & E St NW ",
+    "count":" 1,020 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04657,38.89246 ]
+    },
+    "properties": {
+    "ID":31261,
+    "name":"21st St & Constitution Ave NW",
+    "count":" 621 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02700,38.89784 ]
+    },
+    "properties": {
+    "ID":31262,
+    "name":"11th & F St NW",
+    "count":" 723 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02622,38.90241 ]
+    },
+    "properties": {
+    "ID":31263,
+    "name":"10th & K St NW",
+    "count":" 1,662 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01995,38.89462 ]
+    },
+    "properties": {
+    "ID":31264,
+    "name":"6th St & Indiana Ave NW",
+    "count":" 1,311 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01868,38.90093 ]
+    },
+    "properties": {
+    "ID":31265,
+    "name":"5th St & Massachusetts Ave NW",
+    "count":" 1,322 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02731,38.90558 ]
+    },
+    "properties": {
+    "ID":31266,
+    "name":"11th & M St NW",
+    "count":" 2,349 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03837,38.90814 ]
+    },
+    "properties": {
+    "ID":31267,
+    "name":"17th St & Massachusetts Ave NW",
+    "count":" 1,496 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02814,38.91678 ]
+    },
+    "properties": {
+    "ID":31268,
+    "name":"12th & U St NW",
+    "count":" 712 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00196,38.88737 ]
+    },
+    "properties": {
+    "ID":31269,
+    "name":"3rd St & Pennsylvania Ave SE",
+    "count":" 1,647 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02324,38.89485 ]
+    },
+    "properties": {
+    "ID":31270,
+    "name":"8th & D St NW",
+    "count":" 1,149 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01392,38.89227 ]
+    },
+    "properties": {
+    "ID":31271,
+    "name":"Constitution Ave & 2nd St NW/DOL",
+    "count":" 2,047 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01377,38.88698 ]
+    },
+    "properties": {
+    "ID":31272,
+    "name":"Washington & Independence Ave SW/HHS",
+    "count":" 1,917 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03023,38.87843 ]
+    },
+    "properties": {
+    "ID":31273,
+    "name":"Hains Point/Buckeye & Ohio Dr SW",
+    "count":" 745 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02623,38.89825 ]
+    },
+    "properties": {
+    "ID":31274,
+    "name":"10th & G St NW",
+    "count":" 1,058 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05108,38.90175 ]
+    },
+    "properties": {
+    "ID":31275,
+    "name":"New Hampshire Ave & 24th St NW",
+    "count":" 1,592 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03491,38.90366 ]
+    },
+    "properties": {
+    "ID":31276,
+    "name":"15th & L St NW",
+    "count":" 1,051 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03974,38.89829 ]
+    },
+    "properties": {
+    "ID":31277,
+    "name":"17th & G St NW",
+    "count":" 1,682 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04184,38.91265 ]
+    },
+    "properties": {
+    "ID":31278,
+    "name":"18th & R St NW",
+    "count":" 1,578 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04319,38.89841 ]
+    },
+    "properties": {
+    "ID":31279,
+    "name":"19th & G St NW",
+    "count":" 751 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02703,38.91374 ]
+    },
+    "properties": {
+    "ID":31280,
+    "name":"11th & S St NW",
+    "count":" 1,206 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02278,38.90864 ]
+    },
+    "properties": {
+    "ID":31281,
+    "name":"8th & O St NW",
+    "count":" 2,604 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03628,38.91265 ]
+    },
+    "properties": {
+    "ID":31282,
+    "name":"16th & R St NW",
+    "count":" 1,294 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03174,38.90366 ]
+    },
+    "properties": {
+    "ID":31283,
+    "name":"14th & L St NW",
+    "count":" 1,413 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04154,38.89351 ]
+    },
+    "properties": {
+    "ID":31284,
+    "name":"18th & C St NW",
+    "count":" 621 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04873,38.90939 ]
+    },
+    "properties": {
+    "ID":31285,
+    "name":"22nd & P ST NW",
+    "count":" 1,508 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02714,38.90843 ]
+    },
+    "properties": {
+    "ID":31286,
+    "name":"11th & O St NW",
+    "count":" 1,462 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02600,38.88433 ]
+    },
+    "properties": {
+    "ID":31287,
+    "name":"10th St & L'Enfant Plaza SW",
+    "count":" 1,193 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01725,38.89050 ]
+    },
+    "properties": {
+    "ID":31288,
+    "name":"4th St & Madison Dr NW",
+    "count":" 3,650 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04938,38.89054 ]
+    },
+    "properties": {
+    "ID":31289,
+    "name":"Henry Bacon Dr & Lincoln Memorial Circle NW",
+    "count":" 3,667 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03833,38.88810 ]
+    },
+    "properties": {
+    "ID":31290,
+    "name":"17th St & Independence Ave SW",
+    "count":" 1,914 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03445,38.90114 ]
+    },
+    "properties": {
+    "ID":31291,
+    "name":"Vermont Ave & I St NW",
+    "count":" 1,334 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04895,38.89244 ]
+    },
+    "properties": {
+    "ID":31292,
+    "name":"22nd St & Constitution Ave NW",
+    "count":" 849 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06016,38.90282 ]
+    },
+    "properties": {
+    "ID":31293,
+    "name":"Thomas Jefferson St NW & Water/K St NW",
+    "count":" 986 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02174,38.88345 ]
+    },
+    "properties": {
+    "ID":31294,
+    "name":"7th & E St SW",
+    "count":" 634 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06524,38.90551 ]
+    },
+    "properties": {
+    "ID":31295,
+    "name":"Potomac & M St NW",
+    "count":" 1,437 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04076,38.92409 ]
+    },
+    "properties": {
+    "ID":31296,
+    "name":"Columbia & Ontario Rd NW",
+    "count":" 1,802 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05305,38.89846 ]
+    },
+    "properties": {
+    "ID":31297,
+    "name":"Virginia Ave & 25th St NW",
+    "count":" 883 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03466,38.90542 ]
+    },
+    "properties": {
+    "ID":31298,
+    "name":"15th & M St NW",
+    "count":" 1,576 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04564,38.91264 ]
+    },
+    "properties": {
+    "ID":31299,
+    "name":"Connecticut Ave & R St NW",
+    "count":" 1,486 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06389,38.94455 ]
+    },
+    "properties": {
+    "ID":31300,
+    "name":"Van Ness Metro / UDC",
+    "count":" 317 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08718,38.93874 ]
+    },
+    "properties": {
+    "ID":31301,
+    "name":"Ward Circle / American University",
+    "count":" 137 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07276,38.93490 ]
+    },
+    "properties": {
+    "ID":31302,
+    "name":"Wisconsin Ave & Newark St NW",
+    "count":" 536 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07937,38.94759 ]
+    },
+    "properties": {
+    "ID":31303,
+    "name":"Tenleytown / Wisconsin Ave & Albemarle St NW",
+    "count":" 230 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07033,38.92258 ]
+    },
+    "properties": {
+    "ID":31304,
+    "name":"36th & Calvert St NW / Glover Park",
+    "count":" 479 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05755,38.93364 ]
+    },
+    "properties": {
+    "ID":31305,
+    "name":"Connecticut Ave & Macomb St NW / Cleveland Park",
+    "count":" 524 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07725,38.92264 ]
+    },
+    "properties": {
+    "ID":31306,
+    "name":"39th & Calvert St NW / Stoddert",
+    "count":" 567 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05560,38.93030 ]
+    },
+    "properties": {
+    "ID":31307,
+    "name":"3000 Connecticut Ave NW / National Zoo",
+    "count":" 581 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07708,38.94384 ]
+    },
+    "properties": {
+    "ID":31308,
+    "name":"39th & Veazey St NW",
+    "count":" 259 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08242,38.95481 ]
+    },
+    "properties": {
+    "ID":31309,
+    "name":"Fessenden St & Wisconsin Ave NW",
+    "count":" 110 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06997,38.95502 ]
+    },
+    "properties": {
+    "ID":31310,
+    "name":"Connecticut & Nebraska Ave NW",
+    "count":" 312 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06359,38.90849 ]
+    },
+    "properties": {
+    "ID":31312,
+    "name":"Wisconsin Ave & O St NW",
+    "count":" 1,280 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06197,38.94114 ]
+    },
+    "properties": {
+    "ID":31313,
+    "name":"Connecticut Ave & Tilden St NW",
+    "count":" 293 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06753,38.90373 ]
+    },
+    "properties": {
+    "ID":31314,
+    "name":"34th & Water St NW",
+    "count":" 1,031 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07514,38.96454 ]
+    },
+    "properties": {
+    "ID":31315,
+    "name":"Connecticut Ave & McKinley St NW",
+    "count":" 144 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08057,38.94619 ]
+    },
+    "properties": {
+    "ID":31316,
+    "name":"Yuma St & Tenley Circle NW",
+    "count":" 162 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08463,38.95827 ]
+    },
+    "properties": {
+    "ID":31317,
+    "name":"Wisconsin Ave & Ingomar St NW",
+    "count":" 118 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06511,38.94715 ]
+    },
+    "properties": {
+    "ID":31318,
+    "name":"Connecticut Ave & Yuma St NW",
+    "count":" 230 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08021,38.94982 ]
+    },
+    "properties": {
+    "ID":31319,
+    "name":"Wisconsin Ave & Brandywine St NW",
+    "count":" 261 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08715,38.93629 ]
+    },
+    "properties": {
+    "ID":31320,
+    "name":"American University East Campus",
+    "count":" 187 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03323,38.89224 ]
+    },
+    "properties": {
+    "ID":31321,
+    "name":"15th St & Constitution Ave NW",
+    "count":" 2,276 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09576,38.91704 ]
+    },
+    "properties": {
+    "ID":31322,
+    "name":"48th Pl & MacArthur Blvd NW",
+    "count":" 160 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05183,38.92339 ]
+    },
+    "properties": {
+    "ID":31323,
+    "name":"Woodley Park Metro / Calvert St & Connecticut Ave NW",
+    "count":" 1,362 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04182,38.91128 ]
+    },
+    "properties": {
+    "ID":31324,
+    "name":"18th & New Hampshire Ave NW",
+    "count":" 1,746 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07433,38.91263 ]
+    },
+    "properties": {
+    "ID":31325,
+    "name":"Reservoir Rd & 38th St NW",
+    "count":" 720 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08563,38.90969 ]
+    },
+    "properties": {
+    "ID":31326,
+    "name":"Hardy Rec Center",
+    "count":" 279 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03189,38.91069 ]
+    },
+    "properties": {
+    "ID":31327,
+    "name":"14th & Q St NW",
+    "count":" 1,762 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04691,38.89830 ]
+    },
+    "properties": {
+    "ID":31328,
+    "name":"21st St & G st NW",
+    "count":" 1,261 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03792,38.89554 ]
+    },
+    "properties": {
+    "ID":31329,
+    "name":"White House",
+    "count":" 24 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03856,38.90986 ]
+    },
+    "properties": {
+    "ID":31330,
+    "name":"17th & P St NW",
+    "count":" 2,011 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10366,38.92729 ]
+    },
+    "properties": {
+    "ID":31331,
+    "name":"Arizona Ave & MacArthur Blvd NW",
+    "count":" 110 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02714,38.91819 ]
+    },
+    "properties": {
+    "ID":31332,
+    "name":"11th & V st NW",
+    "count":" 1,029 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02417,38.93672 ]
+    },
+    "properties": {
+    "ID":31400,
+    "name":"Georgia & New Hampshire Ave NW",
+    "count":" 907 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03282,38.93749 ]
+    },
+    "properties": {
+    "ID":31401,
+    "name":"14th St & Spring Rd NW",
+    "count":" 979 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03284,38.94773 ]
+    },
+    "properties": {
+    "ID":31402,
+    "name":"14th St Heights / 14th & Crittenden St NW",
+    "count":" 158 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01979,38.95657 ]
+    },
+    "properties": {
+    "ID":31403,
+    "name":"5th & Kennedy St NW",
+    "count":" 181 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02510,38.94177 ]
+    },
+    "properties": {
+    "ID":31404,
+    "name":"9th & Upshur St NW",
+    "count":" 537 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02734,38.94967 ]
+    },
+    "properties": {
+    "ID":31405,
+    "name":"Georgia Ave & Emerson St NW",
+    "count":" 100 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03268,38.94249 ]
+    },
+    "properties": {
+    "ID":31406,
+    "name":"14th & Upshur St NW",
+    "count":" 263 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03296,38.95642 ]
+    },
+    "properties": {
+    "ID":31407,
+    "name":"14th St & Colorado Ave NW",
+    "count":" 306 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01686,38.97522 ]
+    },
+    "properties": {
+    "ID":31408,
+    "name":"Takoma Metro",
+    "count":" 351 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02785,38.96135 ]
+    },
+    "properties": {
+    "ID":31411,
+    "name":"Georgia & Missouri Ave NW",
+    "count":" 287 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00224,38.95746 ]
+    },
+    "properties": {
+    "ID":31412,
+    "name":"3rd St & Riggs Rd NE",
+    "count":" 113 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01626,38.96884 ]
+    },
+    "properties": {
+    "ID":31413,
+    "name":"3rd & Underwood St NW",
+    "count":" 77 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02796,38.96752 ]
+    },
+    "properties": {
+    "ID":31414,
+    "name":"Georgia Ave & Piney Branch Rd NW",
+    "count":" 162 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02790,38.95673 ]
+    },
+    "properties": {
+    "ID":31415,
+    "name":"Georgia Ave & Kennedy St NW",
+    "count":" 164 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03349,38.96948 ]
+    },
+    "properties": {
+    "ID":31416,
+    "name":"14th & Luzon St NW",
+    "count":" 122 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02141,38.94793 ]
+    },
+    "properties": {
+    "ID":31417,
+    "name":"Kansas Ave & Sherman Cr NW",
+    "count":" 511 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01281,38.95160 ]
+    },
+    "properties": {
+    "ID":31418,
+    "name":"New Hampshire & Gallatin St NW",
+    "count":" 253 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02349,38.93212 ]
+    },
+    "properties": {
+    "ID":31419,
+    "name":"Georgia Ave & Morton St NW",
+    "count":" 762 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03868,38.94216 ]
+    },
+    "properties": {
+    "ID":31420,
+    "name":"17th & Upshur St NW",
+    "count":" 164 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01822,38.94204 ]
+    },
+    "properties": {
+    "ID":31421,
+    "name":"Grant Circle",
+    "count":" 346 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06863,38.96578 ]
+    },
+    "properties": {
+    "ID":31422,
+    "name":"Broad Branch Rd & Northampton St NW",
+    "count":" 93 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01347,38.95777 ]
+    },
+    "properties": {
+    "ID":31423,
+    "name":"Kansas Ave & Longfellow St NW",
+    "count":" 116 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00065,38.91907 ]
+    },
+    "properties": {
+    "ID":31500,
+    "name":"4th & W St NE",
+    "count":" 477 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99103,38.93368 ]
+    },
+    "properties": {
+    "ID":31501,
+    "name":"12th & Newton St NE",
+    "count":" 146 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99550,38.93461 ]
+    },
+    "properties": {
+    "ID":31502,
+    "name":"John McCormack Dr & Michigan Ave NE",
+    "count":" 215 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01349,38.91259 ]
+    },
+    "properties": {
+    "ID":31503,
+    "name":"Florida Ave & R St NW",
+    "count":" 1,214 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99351,38.93246 ]
+    },
+    "properties": {
+    "ID":31504,
+    "name":"10th & Monroe St NE",
+    "count":" 448 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00495,38.91097 ]
+    },
+    "properties": {
+    "ID":31505,
+    "name":"Eckington Pl & Q St NE",
+    "count":" 2,275 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01228,38.91541 ]
+    },
+    "properties": {
+    "ID":31506,
+    "name":"1st & Rhode Island Ave NW",
+    "count":" 1,429 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01243,38.92875 ]
+    },
+    "properties": {
+    "ID":31507,
+    "name":"1st & Washington Hospital Center NW",
+    "count":" 404 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99414,38.90509 ]
+    },
+    "properties": {
+    "ID":31508,
+    "name":"Gallaudet / 8th St & Florida Ave NE",
+    "count":" 209 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01766,38.91267 ]
+    },
+    "properties": {
+    "ID":31509,
+    "name":"New Jersey Ave & R St NW",
+    "count":" 992 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97894,38.92707 ]
+    },
+    "properties": {
+    "ID":31510,
+    "name":"18th St & Rhode Island Ave NE",
+    "count":" 97 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99095,38.92865 ]
+    },
+    "properties": {
+    "ID":31511,
+    "name":"12th & Irving St NE",
+    "count":" 204 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98721,38.90373 ]
+    },
+    "properties": {
+    "ID":31512,
+    "name":"Neal St & Trinidad Ave NE",
+    "count":" 336 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00474,38.91815 ]
+    },
+    "properties": {
+    "ID":31513,
+    "name":"Rhode Island Ave & V St NE",
+    "count":" 248 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99720,38.92750 ]
+    },
+    "properties": {
+    "ID":31514,
+    "name":"Hamlin & 7th St NE",
+    "count":" 286 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00274,38.95238 ]
+    },
+    "properties": {
+    "ID":31515,
+    "name":"Fort Totten Metro",
+    "count":" 477 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99585,38.92068 ]
+    },
+    "properties": {
+    "ID":31516,
+    "name":"Rhode Island Ave Metro",
+    "count":" 378 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99707,38.90791 ]
+    },
+    "properties": {
+    "ID":31517,
+    "name":"Union Market",
+    "count":" 988 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98368,38.91560 ]
+    },
+    "properties": {
+    "ID":31518,
+    "name":"New York Ave & Hecht Ave NE",
+    "count":" 810 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01237,38.90864 ]
+    },
+    "properties": {
+    "ID":31519,
+    "name":"1st & O St NW",
+    "count":" 979 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97193,38.91263 ]
+    },
+    "properties": {
+    "ID":31520,
+    "name":"24th & R St NE / National Arboretum",
+    "count":" 374 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97951,38.93293 ]
+    },
+    "properties": {
+    "ID":31521,
+    "name":"18th & Monroe St NE",
+    "count":" 110 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00356,38.91474 ]
+    },
+    "properties": {
+    "ID":31522,
+    "name":"2nd St & Seaton Pl NE",
+    "count":" 593 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00779,38.91499 ]
+    },
+    "properties": {
+    "ID":31523,
+    "name":"Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center",
+    "count":" 408 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98684,38.90742 ]
+    },
+    "properties": {
+    "ID":31524,
+    "name":"Montello Ave & Holbrook Terr NE",
+    "count":" 517 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98321,38.90629 ]
+    },
+    "properties": {
+    "ID":31525,
+    "name":"Trinidad Rec Center",
+    "count":" 194 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98592,38.92429 ]
+    },
+    "properties": {
+    "ID":31526,
+    "name":"Rhode Island & Montana Ave NE",
+    "count":" 89 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00879,38.91252 ]
+    },
+    "properties": {
+    "ID":31527,
+    "name":"North Capitol & R St NE",
+    "count":" 874 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99722,38.93887 ]
+    },
+    "properties": {
+    "ID":31528,
+    "name":"John McCormack Rd NE",
+    "count":" 253 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00210,38.92409 ]
+    },
+    "properties": {
+    "ID":31529,
+    "name":"Edgewood Rec Center",
+    "count":" 317 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98584,38.91101 ]
+    },
+    "properties": {
+    "ID":31530,
+    "name":"Capitol Ave & Kendall St NE",
+    "count":" 156 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99605,38.92240 ]
+    },
+    "properties": {
+    "ID":31531,
+    "name":"MBT & Bryant St NE",
+    "count":" 1,278 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00071,38.90730 ]
+    },
+    "properties": {
+    "ID":31532,
+    "name":"4th & Florida Ave NE",
+    "count":" 2,614 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01903,38.90304 ]
+    },
+    "properties": {
+    "ID":31600,
+    "name":"5th & K St NW",
+    "count":" 2,980 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97690,38.88960 ]
+    },
+    "properties": {
+    "ID":31601,
+    "name":"19th & East Capitol St SE",
+    "count":" 447 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03146,38.93080 ]
+    },
+    "properties": {
+    "ID":31602,
+    "name":"Park Rd & Holmead Pl NW",
+    "count":" 1,474 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00549,38.90569 ]
+    },
+    "properties": {
+    "ID":31603,
+    "name":"1st & M St NE",
+    "count":" 2,896 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01527,38.89941 ]
+    },
+    "properties": {
+    "ID":31604,
+    "name":"3rd & H St NW",
+    "count":" 1,113 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00229,38.88510 ]
+    },
+    "properties": {
+    "ID":31605,
+    "name":"3rd & D St SE",
+    "count":" 887 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98621,38.88030 ]
+    },
+    "properties": {
+    "ID":31606,
+    "name":"Potomac & Pennsylvania Ave SE",
+    "count":" 982 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98790,38.88292 ]
+    },
+    "properties": {
+    "ID":31607,
+    "name":"13th & E St SE",
+    "count":" 418 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99529,38.87920 ]
+    },
+    "properties": {
+    "ID":31608,
+    "name":"8th & Eye St SE / Barracks Row",
+    "count":" 744 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02306,38.87870 ]
+    },
+    "properties": {
+    "ID":31609,
+    "name":"Maine Ave & 7th St SW",
+    "count":" 2,358 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99681,38.88695 ]
+    },
+    "properties": {
+    "ID":31610,
+    "name":"Eastern Market / 7th & North Carolina Ave SE",
+    "count":" 1,497 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98825,38.90043 ]
+    },
+    "properties": {
+    "ID":31611,
+    "name":"13th & H St NE",
+    "count":" 1,222 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99592,38.89484 ]
+    },
+    "properties": {
+    "ID":31612,
+    "name":"D St & Maryland Ave NE",
+    "count":" 1,187 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99524,38.88410 ]
+    },
+    "properties": {
+    "ID":31613,
+    "name":"Eastern Market Metro / Pennsylvania Ave & 8th St SE",
+    "count":" 2,866 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99836,38.89997 ]
+    },
+    "properties": {
+    "ID":31615,
+    "name":"6th & H St NE",
+    "count":" 2,120 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00198,38.90042 ]
+    },
+    "properties": {
+    "ID":31616,
+    "name":"3rd & H St NE",
+    "count":" 1,571 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98288,38.90042 ]
+    },
+    "properties": {
+    "ID":31617,
+    "name":"Bladensburg Rd & Benning Rd NE",
+    "count":" 271 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00035,38.88995 ]
+    },
+    "properties": {
+    "ID":31618,
+    "name":"4th & East Capitol St NE",
+    "count":" 1,136 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98836,38.89046 ]
+    },
+    "properties": {
+    "ID":31619,
+    "name":"Lincoln Park / 13th & East Capitol St NE ",
+    "count":" 1,301 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01934,38.89722 ]
+    },
+    "properties": {
+    "ID":31620,
+    "name":"5th & F St NW",
+    "count":" 1,075 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01610,38.89536 ]
+    },
+    "properties": {
+    "ID":31621,
+    "name":"4th & D St NW / Judiciary Square",
+    "count":" 457 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98763,38.89483 ]
+    },
+    "properties": {
+    "ID":31622,
+    "name":"13th & D St NE",
+    "count":" 911 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00492,38.89697 ]
+    },
+    "properties": {
+    "ID":31623,
+    "name":"Columbus Circle / Union Station",
+    "count":" 3,771 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00988,38.89744 ]
+    },
+    "properties": {
+    "ID":31624,
+    "name":"North Capitol St & F St NW",
+    "count":" 1,121 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00183,38.88118 ]
+    },
+    "properties": {
+    "ID":31625,
+    "name":"3rd & G St SE",
+    "count":" 1,184 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98357,38.88732 ]
+    },
+    "properties": {
+    "ID":31626,
+    "name":"15th St & Massachusetts Ave SE",
+    "count":" 696 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00213,38.90547 ]
+    },
+    "properties": {
+    "ID":31627,
+    "name":"3rd & M St NE",
+    "count":" 2,031 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00575,38.87885 ]
+    },
+    "properties": {
+    "ID":31628,
+    "name":"1st & I St SE",
+    "count":" 3,023 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99519,38.88999 ]
+    },
+    "properties": {
+    "ID":31629,
+    "name":"8th & East Capitol St NE",
+    "count":" 737 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98334,38.88991 ]
+    },
+    "properties": {
+    "ID":31630,
+    "name":"15th & East Capitol St NE",
+    "count":" 644 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99475,38.89727 ]
+    },
+    "properties": {
+    "ID":31631,
+    "name":"8th & F St NE",
+    "count":" 1,015 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98357,38.89719 ]
+    },
+    "properties": {
+    "ID":31632,
+    "name":"15th & F St NE",
+    "count":" 626 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02576,38.88731 ]
+    },
+    "properties": {
+    "ID":31633,
+    "name":"Independence Ave & L'Enfant Plaza SW/DOE",
+    "count":" 937 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00241,38.87500 ]
+    },
+    "properties": {
+    "ID":31634,
+    "name":"3rd & Tingey St SE",
+    "count":" 999 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99447,38.87674 ]
+    },
+    "properties": {
+    "ID":31635,
+    "name":"Potomac Ave & 8th St SE",
+    "count":" 421 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01536,38.90734 ]
+    },
+    "properties": {
+    "ID":31636,
+    "name":"New Jersey Ave & N St NW/Dunbar HS",
+    "count":" 957 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00893,38.89971 ]
+    },
+    "properties": {
+    "ID":31637,
+    "name":"North Capitol St & G Pl NE",
+    "count":" 463 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01212,38.90036 ]
+    },
+    "properties": {
+    "ID":31638,
+    "name":"1st & H St NW",
+    "count":" 1,031 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00365,38.89967 ]
+    },
+    "properties": {
+    "ID":31639,
+    "name":"2nd & G St NE",
+    "count":" 1,161 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99279,38.89622 ]
+    },
+    "properties": {
+    "ID":31640,
+    "name":"Maryland Ave & E St NE",
+    "count":" 991 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00314,38.89497 ]
+    },
+    "properties": {
+    "ID":31641,
+    "name":"2nd St & Massachusetts Ave NE",
+    "count":" 1,442 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01367,38.90258 ]
+    },
+    "properties": {
+    "ID":31642,
+    "name":"New Jersey Ave & K St NW",
+    "count":" 773 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00596,38.88492 ]
+    },
+    "properties": {
+    "ID":31643,
+    "name":"1st & D St SE",
+    "count":" 1,220 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99012,38.88249 ]
+    },
+    "properties": {
+    "ID":31644,
+    "name":"12th St & Pennsylvania Ave SE",
+    "count":" 683 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99840,38.90294 ]
+    },
+    "properties": {
+    "ID":31645,
+    "name":"6th & K St NE",
+    "count":" 822 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02523,38.88044 ]
+    },
+    "properties": {
+    "ID":31646,
+    "name":"Maine Ave & 9th St SW",
+    "count":" 2,380 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99601,38.89222 ]
+    },
+    "properties": {
+    "ID":31647,
+    "name":"7th St & Massachusetts Ave NE",
+    "count":" 755 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01081,38.86968 ]
+    },
+    "properties": {
+    "ID":31648,
+    "name":"Potomac Ave & Half St SW",
+    "count":" 673 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03297,38.93199 ]
+    },
+    "properties": {
+    "ID":31649,
+    "name":"14th & Newton St NW",
+    "count":" 1,156 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00604,38.87692 ]
+    },
+    "properties": {
+    "ID":31650,
+    "name":"1st & M St SE",
+    "count":" 1,510 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02824,38.93133 ]
+    },
+    "properties": {
+    "ID":31651,
+    "name":"11th & Park Rd NW",
+    "count":" 1,204 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00075,38.87679 ]
+    },
+    "properties": {
+    "ID":31652,
+    "name":"4th & M St SE",
+    "count":" 1,080 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02140,38.90267 ]
+    },
+    "properties": {
+    "ID":31653,
+    "name":"7th & K St NW",
+    "count":" 1,841 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01244,38.87621 ]
+    },
+    "properties": {
+    "ID":31654,
+    "name":"King Greenleaf Rec Center",
+    "count":" 440 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01162,38.89711 ]
+    },
+    "properties": {
+    "ID":31655,
+    "name":"New Jersey Ave & F St NW",
+    "count":" 1,335 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97863,38.90194 ]
+    },
+    "properties": {
+    "ID":31656,
+    "name":"Maryland Ave & 17th St NE",
+    "count":" 386 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99827,38.89294 ]
+    },
+    "properties": {
+    "ID":31657,
+    "name":"Massachusetts Ave & 6th St NE",
+    "count":" 1,023 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97963,38.89782 ]
+    },
+    "properties": {
+    "ID":31658,
+    "name":"Rosedale Rec Center",
+    "count":" 285 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99148,38.88591 ]
+    },
+    "properties": {
+    "ID":31659,
+    "name":"11th & C St SE",
+    "count":" 700 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99515,38.90273 ]
+    },
+    "properties": {
+    "ID":31660,
+    "name":"8th & K St NE",
+    "count":" 637 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99490,38.89993 ]
+    },
+    "properties": {
+    "ID":31661,
+    "name":"8th & H St NE",
+    "count":" 886 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00565,38.90239 ]
+    },
+    "properties": {
+    "ID":31662,
+    "name":"1st & K St NE",
+    "count":" 1,538 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98635,38.88406 ]
+    },
+    "properties": {
+    "ID":31663,
+    "name":"14th & D St SE",
+    "count":" 990 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01055,38.86628 ]
+    },
+    "properties": {
+    "ID":31664,
+    "name":"Half & Water St SW",
+    "count":" 538 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97719,38.88549 ]
+    },
+    "properties": {
+    "ID":31665,
+    "name":"Stadium Armory Metro",
+    "count":" 294 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01770,38.88111 ]
+    },
+    "properties": {
+    "ID":31666,
+    "name":"4th & G St SW",
+    "count":" 1,358 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01381,38.86374 ]
+    },
+    "properties": {
+    "ID":31667,
+    "name":"2nd & V St SW / James Creek Marina",
+    "count":" 517 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00591,38.87184 ]
+    },
+    "properties": {
+    "ID":31668,
+    "name":"1st St & Potomac Ave SE",
+    "count":" 1,006 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00214,38.87683 ]
+    },
+    "properties": {
+    "ID":31669,
+    "name":"3rd & M St SE",
+    "count":" 506 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.92530,38.88334 ]
+    },
+    "properties": {
+    "ID":31671,
+    "name":"53rd & D St SE/C.W. Harris Elementary",
+    "count":" 30 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99272,38.89998 ]
+    },
+    "properties": {
+    "ID":31672,
+    "name":"10th & H St NE",
+    "count":" 766 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.96918,38.86165 ]
+    },
+    "properties": {
+    "ID":31700,
+    "name":"Good Hope & Naylor Rd SE",
+    "count":" 28 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.95981,38.86920 ]
+    },
+    "properties": {
+    "ID":31701,
+    "name":"Branch & Pennsylvania Ave SE",
+    "count":" 30 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.96071,38.87801 ]
+    },
+    "properties": {
+    "ID":31702,
+    "name":"Randle Circle & Minnesota Ave SE",
+    "count":" 36 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94745,38.89705 ]
+    },
+    "properties": {
+    "ID":31703,
+    "name":"Minnesota Ave Metro/DOES",
+    "count":" 65 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94188,38.90138 ]
+    },
+    "properties": {
+    "ID":31704,
+    "name":"Nannie Helen Burroughs & Minnesota Ave NE",
+    "count":" 33 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94797,38.89399 ]
+    },
+    "properties": {
+    "ID":31705,
+    "name":"Benning Branch Library",
+    "count":" 43 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.95211,38.86559 ]
+    },
+    "properties": {
+    "ID":31706,
+    "name":"Fairfax Village",
+    "count":" 26 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.93723,38.88995 ]
+    },
+    "properties": {
+    "ID":31707,
+    "name":"Benning Rd & East Capitol St NE / Benning Rd Metro",
+    "count":" 104 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.96012,38.89654 ]
+    },
+    "properties": {
+    "ID":31708,
+    "name":"Anacostia Ave & Benning Rd NE / River Terrace ",
+    "count":" 171 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.93186,38.89853 ]
+    },
+    "properties": {
+    "ID":31710,
+    "name":"Nannie Helen Burroughs Ave & 49th St NE",
+    "count":" 57 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.93310,38.90844 ]
+    },
+    "properties": {
+    "ID":31711,
+    "name":"Deanwood Rec Center",
+    "count":" 65 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97483,38.89447 ]
+    },
+    "properties": {
+    "ID":31712,
+    "name":"Oklahoma Ave & D St NE",
+    "count":" 292 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.92590,38.89742 ]
+    },
+    "properties": {
+    "ID":31713,
+    "name":"Division Ave & Foote St NE",
+    "count":" 13 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.91357,38.89181 ]
+    },
+    "properties": {
+    "ID":31714,
+    "name":"61st St & Banks Pl NE",
+    "count":" 46 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94974,38.88300 ]
+    },
+    "properties": {
+    "ID":31715,
+    "name":"37th & Ely Pl SE",
+    "count":" 18 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.96785,38.89595 ]
+    },
+    "properties": {
+    "ID":31716,
+    "name":"Kingman Island/The Fields at RFK",
+    "count":" 176 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94729,38.90045 ]
+    },
+    "properties": {
+    "ID":31717,
+    "name":"Kenilworth Terrace & Hayes St. NE",
+    "count":" 40 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94072,38.87609 ]
+    },
+    "properties": {
+    "ID":31718,
+    "name":"Ridge Rd Community Center",
+    "count":" 8 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.96951,38.89749 ]
+    },
+    "properties": {
+    "ID":31719,
+    "name":"Oklahoma Ave & Benning Rd NE",
+    "count":" 157 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97093,38.87877 ]
+    },
+    "properties": {
+    "ID":31720,
+    "name":"Anacostia Roller Skating Pavillion",
+    "count":" 285 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99939,38.84323 ]
+    },
+    "properties": {
+    "ID":31800,
+    "name":"Alabama & MLK Ave SE",
+    "count":" 31 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99465,38.86267 ]
+    },
+    "properties": {
+    "ID":31801,
+    "name":"Anacostia Metro",
+    "count":" 140 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98804,38.86737 ]
+    },
+    "properties": {
+    "ID":31802,
+    "name":"Good Hope Rd & MLK Ave SE",
+    "count":" 111 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98523,38.86661 ]
+    },
+    "properties": {
+    "ID":31803,
+    "name":"Good Hope Rd & 14th St SE",
+    "count":" 57 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97840,38.86578 ]
+    },
+    "properties": {
+    "ID":31804,
+    "name":"Anacostia Library",
+    "count":" 57 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97102,38.87306 ]
+    },
+    "properties": {
+    "ID":31805,
+    "name":"Pennsylvania & Minnesota Ave SE",
+    "count":" 40 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98782,38.84471 ]
+    },
+    "properties": {
+    "ID":31806,
+    "name":"Congress Heights Metro",
+    "count":" 38 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99002,38.86390 ]
+    },
+    "properties": {
+    "ID":31807,
+    "name":"Pleasant St & MLK Ave SE",
+    "count":" 51 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00814,38.83152 ]
+    },
+    "properties": {
+    "ID":31811,
+    "name":"South Capitol & Atlantic St SW",
+    "count":" 58 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98236,38.87069 ]
+    },
+    "properties": {
+    "ID":31812,
+    "name":"16th & Q St SE / Anacostia HS",
+    "count":" 70 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98185,38.84627 ]
+    },
+    "properties": {
+    "ID":31813,
+    "name":"Alabama Ave & Stanton Rd SE / Shops at Park Village",
+    "count":" 24 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97557,38.84376 ]
+    },
+    "properties": {
+    "ID":31814,
+    "name":"Mississippi Ave & 19th St SE / THEARC",
+    "count":" 33 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97703,38.84623 ]
+    },
+    "properties": {
+    "ID":31815,
+    "name":"19th & Savannah St SE",
+    "count":" 7 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00089,38.83601 ]
+    },
+    "properties": {
+    "ID":31816,
+    "name":"4th St & Mississippi Ave SE",
+    "count":" 37 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00548,38.82447 ]
+    },
+    "properties": {
+    "ID":31817,
+    "name":"1st & S Capitol St SE / Oxon Run Trail",
+    "count":" 67 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00222,38.82373 ]
+    },
+    "properties": {
+    "ID":31818,
+    "name":"Livingston Rd & 3rd St SE",
+    "count":" 23 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01047,38.81908 ]
+    },
+    "properties": {
+    "ID":31819,
+    "name":"Joliet St & MLK Ave SW/Bald Eagle Rec Ctr",
+    "count":" 1 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98340,38.87335 ]
+    },
+    "properties": {
+    "ID":31820,
+    "name":"Anacostia Park",
+    "count":" 208 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98448,38.85501 ]
+    },
+    "properties": {
+    "ID":31822,
+    "name":"Stanton Square SE",
+    "count":" 26 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98314,38.83574 ]
+    },
+    "properties": {
+    "ID":31823,
+    "name":"United Medical Center",
+    "count":" 6 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99359,38.83665 ]
+    },
+    "properties": {
+    "ID":31824,
+    "name":"Valley Ave & Wheeler Rd SE",
+    "count":" 17 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97772,38.85733 ]
+    },
+    "properties": {
+    "ID":31825,
+    "name":"Fort Stanton Rec Center",
+    "count":" 14 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97852,38.86934 ]
+    },
+    "properties": {
+    "ID":31826,
+    "name":"Minnesota Ave & R St SE",
+    "count":" 61 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00517,38.85313 ]
+    },
+    "properties": {
+    "ID":31827,
+    "name":"St. Elizabeths West Campus/DHS ",
+    "count":" 94 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11801,38.89830 ]
+    },
+    "properties": {
+    "ID":31900,
+    "name":"Langston Blvd & N Woodstock St",
+    "count":" 122 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.12768,38.88483 ]
+    },
+    "properties": {
+    "ID":31901,
+    "name":"Washington Blvd & N Frederick St",
+    "count":" 41 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.12712,38.87653 ]
+    },
+    "properties": {
+    "ID":31902,
+    "name":"Wilson Blvd & N Illinois St ",
+    "count":" 115 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04470,38.79927 ]
+    },
+    "properties": {
+    "ID":31903,
+    "name":"Royal St & Wilkes St",
+    "count":" 130 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.15644,38.88534 ]
+    },
+    "properties": {
+    "ID":31904,
+    "name":"East Falls Church Metro / Sycamore St & 19th St N",
+    "count":" 207 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.13527,38.88100 ]
+    },
+    "properties": {
+    "ID":31905,
+    "name":"Kennebec St & 11th St N",
+    "count":" 123 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06172,38.81269 ]
+    },
+    "properties": {
+    "ID":31906,
+    "name":"Commonwealth Ave & Oak St",
+    "count":" 50 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04871,38.79813 ]
+    },
+    "properties": {
+    "ID":31907,
+    "name":"Franklin St & S Washington St",
+    "count":" 144 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08603,38.82845 ]
+    },
+    "properties": {
+    "ID":31908,
+    "name":"Radford St & Osage St",
+    "count":" 28 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06402,38.84342 ]
+    },
+    "properties": {
+    "ID":31909,
+    "name":"Mount Vernon Ave & Four Mile Run Park",
+    "count":" 197 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04927,38.82274 ]
+    },
+    "properties": {
+    "ID":31910,
+    "name":"Potomac Ave & Main Line Blvd",
+    "count":" 157 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06309,38.84129 ]
+    },
+    "properties": {
+    "ID":31912,
+    "name":"Mount Vernon Ave & Bruce St",
+    "count":" 57 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06282,38.82006 ]
+    },
+    "properties": {
+    "ID":31913,
+    "name":"Commonwealth Ave & E Monroe Ave",
+    "count":" 103 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05377,38.79756 ]
+    },
+    "properties": {
+    "ID":31914,
+    "name":"Lee Center",
+    "count":" 31 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04778,38.81875 ]
+    },
+    "properties": {
+    "ID":31915,
+    "name":"Powhatan St & Bashford Ln",
+    "count":" 136 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04784,38.82955 ]
+    },
+    "properties": {
+    "ID":31916,
+    "name":"Potomac Ave & Swann Ave",
+    "count":" 261 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07086,38.89385 ]
+    },
+    "properties": {
+    "ID":31917,
+    "name":"N Lynn St & Fairfax Dr",
+    "count":" 443 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04069,38.81235 ]
+    },
+    "properties": {
+    "ID":31918,
+    "name":"Madison St & Fairfax St",
+    "count":" 241 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11298,38.87670 ]
+    },
+    "properties": {
+    "ID":31919,
+    "name":"Carlin Springs Rd & N Thomas St",
+    "count":" 132 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11107,38.88828 ]
+    },
+    "properties": {
+    "ID":31920,
+    "name":"Washington-Liberty High School / N Stafford St & Generals Way",
+    "count":" 127 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.14231,38.88604 ]
+    },
+    "properties": {
+    "ID":31921,
+    "name":"Westover Library / Washington Blvd & N McKinley Rd",
+    "count":" 37 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10203,38.85932 ]
+    },
+    "properties": {
+    "ID":31923,
+    "name":"Columbia Pike & George Mason Dr",
+    "count":" 134 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08209,38.89255 ]
+    },
+    "properties": {
+    "ID":31924,
+    "name":"Wilson Blvd & N Troy St",
+    "count":" 372 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11455,38.87947 ]
+    },
+    "properties": {
+    "ID":31926,
+    "name":"Wilson Blvd. & N. Vermont St.",
+    "count":" 200 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10078,38.80816 ]
+    },
+    "properties": {
+    "ID":31927,
+    "name":"Wheeler Ave & S. Floyd St.",
+    "count":" 33 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10775,38.84153 ]
+    },
+    "properties": {
+    "ID":31928,
+    "name":"N. Beauregard St. & Berkley St.",
+    "count":" 95 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04942,38.79306 ]
+    },
+    "properties": {
+    "ID":31929,
+    "name":"Mt Vernon Trail & S. Washington St.",
+    "count":" 441 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08246,38.80274 ]
+    },
+    "properties": {
+    "ID":31930,
+    "name":"Eisenhower Ave & Ike Dr",
+    "count":" 79 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04282,38.81403 ]
+    },
+    "properties": {
+    "ID":31931,
+    "name":"N Pitt St & Montgomery St",
+    "count":" 195 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.12996,38.80011 ]
+    },
+    "properties": {
+    "ID":31932,
+    "name":"Van Dorn Metro",
+    "count":" 22 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04029,38.80195 ]
+    },
+    "properties": {
+    "ID":31933,
+    "name":"Duke St & Strand (Robinson Terminal)",
+    "count":" 123 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04594,38.85293 ]
+    },
+    "properties": {
+    "ID":31935,
+    "name":"National Airport",
+    "count":" 228 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05688,38.86484 ]
+    },
+    "properties": {
+    "ID":31936,
+    "name":"Fern St & Army Navy Dr",
+    "count":" 207 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07489,38.89086 ]
+    },
+    "properties": {
+    "ID":31937,
+    "name":"Arlington Blvd & Ft Myer Dr",
+    "count":" 314 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05950,38.85300 ]
+    },
+    "properties": {
+    "ID":31938,
+    "name":"23rd St S & Hayes St",
+    "count":" 183 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07382,38.89507 ]
+    },
+    "properties": {
+    "ID":31939,
+    "name":"Wilson Blvd & N Oak St",
+    "count":" 396 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08426,38.88626 ]
+    },
+    "properties": {
+    "ID":31940,
+    "name":"Arlington Blvd & Fairfax Dr",
+    "count":" 197 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10611,38.83730 ]
+    },
+    "properties": {
+    "ID":31941,
+    "name":"N Hampton Dr & Ford Ave",
+    "count":" 41 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.13580,38.80972 ]
+    },
+    "properties": {
+    "ID":31942,
+    "name":"Whiting & Lane Dr",
+    "count":" 14 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11005,38.81583 ]
+    },
+    "properties": {
+    "ID":31943,
+    "name":"N Howard St & Taney Ave",
+    "count":" 11 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05193,38.84502 ]
+    },
+    "properties": {
+    "ID":31944,
+    "name":"S Clark St & 33rd St",
+    "count":" 347 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11813,38.85403 ]
+    },
+    "properties": {
+    "ID":31945,
+    "name":"Columbia Pike & S Greenbrier St",
+    "count":" 69 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11058,38.82891 ]
+    },
+    "properties": {
+    "ID":31946,
+    "name":"Kenmore Ave & Seminary Rd",
+    "count":" 49 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07146,38.89608 ]
+    },
+    "properties": {
+    "ID":31947,
+    "name":"Rosslyn Metro / Wilson Blvd & N Moore St",
+    "count":" 805 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.16210,38.88714 ]
+    },
+    "properties": {
+    "ID":31948,
+    "name":"W&OD Trail & Langston Blvd",
+    "count":" 131 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07720,38.86355 ]
+    },
+    "properties": {
+    "ID":31949,
+    "name":"Columbia Pike & S Scott St/12th St S",
+    "count":" 98 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04409,38.87056 ]
+    },
+    "properties": {
+    "ID":31950,
+    "name":"Long Bridge Aquatic Center",
+    "count":" 205 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11634,38.85705 ]
+    },
+    "properties": {
+    "ID":31951,
+    "name":"8th Rd & S Frederick St",
+    "count":" 31 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10559,38.81849 ]
+    },
+    "properties": {
+    "ID":31952,
+    "name":"N Howard St & N Imboden St",
+    "count":" 8 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.13231,38.80448 ]
+    },
+    "properties": {
+    "ID":31953,
+    "name":"S Pickett St & Shillings St",
+    "count":" 71 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10996,38.81138 ]
+    },
+    "properties": {
+    "ID":31954,
+    "name":"S Jordan St & Venable St",
+    "count":" 48 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05608,38.80603 ]
+    },
+    "properties": {
+    "ID":31955,
+    "name":"King St & Peyton St",
+    "count":" 119 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06090,38.83728 ]
+    },
+    "properties": {
+    "ID":31956,
+    "name":"Reed & Edison",
+    "count":" 176 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08507,38.82479 ]
+    },
+    "properties": {
+    "ID":31957,
+    "name":"King St & Kenwood Ave",
+    "count":" 7 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04804,38.80070 ]
+    },
+    "properties": {
+    "ID":31958,
+    "name":"S Washington St & Wilkes St",
+    "count":" 55 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04977,38.83242 ]
+    },
+    "properties": {
+    "ID":31959,
+    "name":"Main Line Blvd & E Glebe",
+    "count":" 397 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05727,38.83684 ]
+    },
+    "properties": {
+    "ID":31960,
+    "name":"Commonwealth and Reed",
+    "count":" 395 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11618,38.83860 ]
+    },
+    "properties": {
+    "ID":31961,
+    "name":"Fillmore & Bisdorf",
+    "count":" 15 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08899,38.82768 ]
+    },
+    "properties": {
+    "ID":31962,
+    "name":"King St & W Braddock Rd",
+    "count":" 37 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11893,38.81431 ]
+    },
+    "properties": {
+    "ID":31963,
+    "name":"Holmes Run Pkwy & N Pickett St",
+    "count":" 86 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09388,38.82015 ]
+    },
+    "properties": {
+    "ID":31964,
+    "name":"Virginia Theological Seminary",
+    "count":" 14 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10993,38.81219 ]
+    },
+    "properties": {
+    "ID":31966,
+    "name":"Duke St & Jordan St",
+    "count":" 73 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.12892,38.80960 ]
+    },
+    "properties": {
+    "ID":31967,
+    "name":"S Reynolds St & Edsall Rd",
+    "count":" 36 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04467,38.80480 ]
+    },
+    "properties": {
+    "ID":31968,
+    "name":"King St & N Pitt St",
+    "count":" 267 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05373,38.81347 ]
+    },
+    "properties": {
+    "ID":31969,
+    "name":"Braddock Rd Metro South",
+    "count":" 462 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05010,38.81702 ]
+    },
+    "properties": {
+    "ID":31970,
+    "name":"First St & Fayette St",
+    "count":" 223 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08424,38.86351 ]
+    },
+    "properties": {
+    "ID":31971,
+    "name":"Penrose Sq/Columbia Pike & S Barton St",
+    "count":" 143 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09809,38.84404 ]
+    },
+    "properties": {
+    "ID":31972,
+    "name":"S Wakefield St & 28th Rd S",
+    "count":" 57 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10480,38.87425 ]
+    },
+    "properties": {
+    "ID":31973,
+    "name":"N Pershing Dr & Quebec St",
+    "count":" 63 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11275,38.88242 ]
+    },
+    "properties": {
+    "ID":31974,
+    "name":"Fairfax Dr & N Taylor St",
+    "count":" 19 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09655,38.98857 ]
+    },
+    "properties": {
+    "ID":32000,
+    "name":"Norfolk Ave & Fairmont St",
+    "count":" 124 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02308,38.98540 ]
+    },
+    "properties": {
+    "ID":32001,
+    "name":"Fenton St & New York Ave ",
+    "count":" 105 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09742,38.98110 ]
+    },
+    "properties": {
+    "ID":32002,
+    "name":"Bethesda Ave & Arlington Rd",
+    "count":" 306 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09221,38.98384 ]
+    },
+    "properties": {
+    "ID":32003,
+    "name":"Montgomery Ave & Waverly St ",
+    "count":" 48 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.19267,39.09631 ]
+    },
+    "properties": {
+    "ID":32004,
+    "name":"Fallsgrove Blvd & Fallsgrove Dr",
+    "count":" 47 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.20250,39.09378 ]
+    },
+    "properties": {
+    "ID":32005,
+    "name":"Traville Gateway Dr & Gudelsky Dr",
+    "count":" 26 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02941,38.98700 ]
+    },
+    "properties": {
+    "ID":32006,
+    "name":"13th St & Eastern Ave",
+    "count":" 50 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.15128,39.08413 ]
+    },
+    "properties": {
+    "ID":32007,
+    "name":"E Montgomery Ave & Maryland Ave",
+    "count":" 38 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09802,38.98955 ]
+    },
+    "properties": {
+    "ID":32008,
+    "name":"Cordell & Norfolk Ave",
+    "count":" 122 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.14525,39.09476 ]
+    },
+    "properties": {
+    "ID":32009,
+    "name":"Frederick Ave & Horners Ln",
+    "count":" 4 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01133,38.98128 ]
+    },
+    "properties": {
+    "ID":32010,
+    "name":"Philadelphia & Maple Ave",
+    "count":" 54 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00631,38.98363 ]
+    },
+    "properties": {
+    "ID":32011,
+    "name":"Maple & Ritchie Ave",
+    "count":" 67 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02911,38.99524 ]
+    },
+    "properties": {
+    "ID":32012,
+    "name":"Silver Spring Metro / Colesville Rd & Wayne Ave",
+    "count":" 122 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09536,38.98352 ]
+    },
+    "properties": {
+    "ID":32013,
+    "name":"Montgomery & East Ln",
+    "count":" 112 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08601,38.96175 ]
+    },
+    "properties": {
+    "ID":32014,
+    "name":"Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir",
+    "count":" 212 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.18798,39.09940 ]
+    },
+    "properties": {
+    "ID":32016,
+    "name":"Fallsgrove Dr & W Montgomery Ave",
+    "count":" 44 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.14911,39.08367 ]
+    },
+    "properties": {
+    "ID":32017,
+    "name":"Monroe St & Monroe Pl",
+    "count":" 11 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.15741,39.12351 ]
+    },
+    "properties": {
+    "ID":32018,
+    "name":"Needwood Rd & Eagles Head Ct",
+    "count":" 8 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02939,38.99027 ]
+    },
+    "properties": {
+    "ID":32019,
+    "name":"East West Hwy & Blair Mill Rd",
+    "count":" 70 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09199,38.98245 ]
+    },
+    "properties": {
+    "ID":32021,
+    "name":"47th & Elm St",
+    "count":" 91 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04456,39.02539 ]
+    },
+    "properties": {
+    "ID":32022,
+    "name":"Dennis Ave & Amherst Ave",
+    "count":" 44 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.15904,39.09566 ]
+    },
+    "properties": {
+    "ID":32023,
+    "name":"Montgomery College / W Campus Dr & Mannakee St",
+    "count":" 9 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02385,38.98972 ]
+    },
+    "properties": {
+    "ID":32024,
+    "name":"Fenton St & Gist Ave",
+    "count":" 118 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01120,38.97500 ]
+    },
+    "properties": {
+    "ID":32025,
+    "name":"Carroll & Westmoreland Ave",
+    "count":" 158 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00643,38.97794 ]
+    },
+    "properties": {
+    "ID":32026,
+    "name":"Carroll & Ethan Allen Ave",
+    "count":" 137 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10010,38.99237 ]
+    },
+    "properties": {
+    "ID":32027,
+    "name":"Battery Ln & Trolley Trail",
+    "count":" 215 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10024,38.99064 ]
+    },
+    "properties": {
+    "ID":32028,
+    "name":"Norfolk & Rugby Ave",
+    "count":" 67 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09459,38.97710 ]
+    },
+    "properties": {
+    "ID":32029,
+    "name":"Offutt Ln & Chevy Chase Dr",
+    "count":" 90 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.14138,39.07634 ]
+    },
+    "properties": {
+    "ID":32032,
+    "name":"Fleet St & Ritchie Pkwy",
+    "count":" 16 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.17709,39.10221 ]
+    },
+    "properties": {
+    "ID":32033,
+    "name":"Piccard & W Gude Dr",
+    "count":" 13 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03039,38.99403 ]
+    },
+    "properties": {
+    "ID":32034,
+    "name":"Silver Spring Transit Center - Top Level",
+    "count":" 51 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03156,38.99939 ]
+    },
+    "properties": {
+    "ID":32035,
+    "name":"Georgia Ave & Spring St",
+    "count":" 43 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02557,38.99699 ]
+    },
+    "properties": {
+    "ID":32036,
+    "name":"Fenton St & Ellsworth Dr ",
+    "count":" 150 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.17150,39.11468 ]
+    },
+    "properties": {
+    "ID":32037,
+    "name":"King Farm Blvd & Pleasant Dr",
+    "count":" 38 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.18268,39.11032 ]
+    },
+    "properties": {
+    "ID":32038,
+    "name":"King Farm Blvd & Piccard Dr",
+    "count":" 21 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10965,38.99963 ]
+    },
+    "properties": {
+    "ID":32039,
+    "name":"Old Georgetown Rd & Southwick St",
+    "count":" 122 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08866,38.96116 ]
+    },
+    "properties": {
+    "ID":32040,
+    "name":"Friendship Blvd & Willard Ave",
+    "count":" 99 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.19644,39.10309 ]
+    },
+    "properties": {
+    "ID":32041,
+    "name":"Medical Center Dr & Key West Ave",
+    "count":" 2 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.19664,39.09764 ]
+    },
+    "properties": {
+    "ID":32042,
+    "name":"Shady Grove Hospital",
+    "count":" 2 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02391,38.99745 ]
+    },
+    "properties": {
+    "ID":32043,
+    "name":"Veterans Pl & Pershing Dr ",
+    "count":" 55 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.14581,39.08539 ]
+    },
+    "properties": {
+    "ID":32044,
+    "name":"Rockville Metro East",
+    "count":" 16 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.16607,39.11978 ]
+    },
+    "properties": {
+    "ID":32045,
+    "name":"Shady Grove Metro West",
+    "count":" 51 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10338,38.96500 ]
+    },
+    "properties": {
+    "ID":32046,
+    "name":"River Rd & Landy Ln",
+    "count":" 257 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.14691,39.08441 ]
+    },
+    "properties": {
+    "ID":32047,
+    "name":"Rockville Metro West",
+    "count":" 18 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09454,38.98469 ]
+    },
+    "properties": {
+    "ID":32048,
+    "name":"Bethesda Metro / Wisconsin Ave & Old Georgetown Rd",
+    "count":" 209 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00002,38.98673 ]
+    },
+    "properties": {
+    "ID":32049,
+    "name":"WAU / Flower Ave & Division St",
+    "count":" 137 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03451,38.99765 ]
+    },
+    "properties": {
+    "ID":32050,
+    "name":"Spring St & 2nd Ave",
+    "count":" 13 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.07697,38.99411 ]
+    },
+    "properties": {
+    "ID":32051,
+    "name":"Connecticut Ave & Chevy Chase Lake Dr",
+    "count":" 38 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.19477,39.10530 ]
+    },
+    "properties": {
+    "ID":32052,
+    "name":"Key West Ave & Siesta Key Way",
+    "count":" 25 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09789,38.99938 ]
+    },
+    "properties": {
+    "ID":32053,
+    "name":"Medical Center Metro ",
+    "count":" 105 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05117,38.99967 ]
+    },
+    "properties": {
+    "ID":32054,
+    "name":"Lyttonsville Rd & Lyttonsville Pl",
+    "count":" 38 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.09352,38.97987 ]
+    },
+    "properties": {
+    "ID":32055,
+    "name":"Woodmont Ave & Strathmore St",
+    "count":" 279 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03872,38.99567 ]
+    },
+    "properties": {
+    "ID":32056,
+    "name":"East West Hwy & 16th St",
+    "count":" 70 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10718,39.01473 ]
+    },
+    "properties": {
+    "ID":32057,
+    "name":"Pooks Hill Rd & Linden Ave",
+    "count":" 41 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01630,38.99087 ]
+    },
+    "properties": {
+    "ID":32058,
+    "name":"Sligo Ave & Carroll Ln",
+    "count":" 58 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98832,38.98264 ]
+    },
+    "properties": {
+    "ID":32059,
+    "name":"Takoma Park Rec Center",
+    "count":" 15 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98842,38.98810 ]
+    },
+    "properties": {
+    "ID":32061,
+    "name":"New Hampshire & Kirklynn Ave",
+    "count":" 24 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05102,39.03841 ]
+    },
+    "properties": {
+    "ID":32062,
+    "name":"Wheaton Metro / Georgia Ave & Reedie Dr",
+    "count":" 45 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04779,39.04489 ]
+    },
+    "properties": {
+    "ID":32063,
+    "name":"Amherst Ave & Elkins St",
+    "count":" 46 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04840,39.03595 ]
+    },
+    "properties": {
+    "ID":32064,
+    "name":"Amherst Ave & Prichard Rd",
+    "count":" 12 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05308,39.04327 ]
+    },
+    "properties": {
+    "ID":32065,
+    "name":"Grandview & Blueridge Ave",
+    "count":" 13 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04734,39.03203 ]
+    },
+    "properties": {
+    "ID":32066,
+    "name":"Windham Ln & Amherst Ave",
+    "count":" 86 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.16498,39.12129 ]
+    },
+    "properties": {
+    "ID":32067,
+    "name":"Shady Grove Metro East",
+    "count":" 24 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.16707,39.12583 ]
+    },
+    "properties": {
+    "ID":32068,
+    "name":"Columbus Ave & Tribeca St",
+    "count":" 19 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.16486,39.12333 ]
+    },
+    "properties": {
+    "ID":32069,
+    "name":"Columbus Ave & Gramercy Blvd",
+    "count":" 15 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.20386,39.10564 ]
+    },
+    "properties": {
+    "ID":32070,
+    "name":"Key West Ave & Great Seneca Hwy",
+    "count":" 9 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.19262,39.10698 ]
+    },
+    "properties": {
+    "ID":32071,
+    "name":"Corporate Blvd & Omega Dr",
+    "count":" 31 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.20236,39.10615 ]
+    },
+    "properties": {
+    "ID":32072,
+    "name":"Key West Ave & Diamondback Dr",
+    "count":" 10 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05005,39.04315 ]
+    },
+    "properties": {
+    "ID":32073,
+    "name":"Blueridge Ave & Elkin St",
+    "count":" 15 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.12077,39.06204 ]
+    },
+    "properties": {
+    "ID":32074,
+    "name":"Twinbrook Metro",
+    "count":" 38 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11286,39.04752 ]
+    },
+    "properties": {
+    "ID":32075,
+    "name":"White Flint Metro",
+    "count":" 50 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.10933,39.04898 ]
+    },
+    "properties": {
+    "ID":32076,
+    "name":"Citadel Ave & McGrath Blvd",
+    "count":" 42 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11368,39.04976 ]
+    },
+    "properties": {
+    "ID":32077,
+    "name":"Rockville Pike & Old Georgetown Rd",
+    "count":" 51 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11349,39.04317 ]
+    },
+    "properties": {
+    "ID":32078,
+    "name":"Woodglen Dr & Executive Blvd",
+    "count":" 70 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.12569,39.04873 ]
+    },
+    "properties": {
+    "ID":32079,
+    "name":"Executive Blvd & E Jefferson St",
+    "count":" 25 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.11345,39.06290 ]
+    },
+    "properties": {
+    "ID":32080,
+    "name":"Fishers Ln & Rock Creek Mill Rd",
+    "count":" 18 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.12924,39.06219 ]
+    },
+    "properties": {
+    "ID":32081,
+    "name":"Congressional Ln & E Jefferson St",
+    "count":" 43 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00078,39.00047 ]
+    },
+    "properties": {
+    "ID":32082,
+    "name":"Garland Ave & Walden Rd",
+    "count":" 63 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.05109,39.04730 ]
+    },
+    "properties": {
+    "ID":32084,
+    "name":"Wheaton Library & Community Rec Center",
+    "count":" 41 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00413,39.03137 ]
+    },
+    "properties": {
+    "ID":32085,
+    "name":"The Shoppes @ Burnt Mills",
+    "count":" 14 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94550,39.08164 ]
+    },
+    "properties": {
+    "ID":32086,
+    "name":"Briggs Chaney & Castle Dr",
+    "count":" 55 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97572,39.04614 ]
+    },
+    "properties": {
+    "ID":32087,
+    "name":"White Oak Rec Center",
+    "count":" 19 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94187,39.07787 ]
+    },
+    "properties": {
+    "ID":32088,
+    "name":"Briggs Chaney Park & Ride",
+    "count":" 31 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99182,39.03911 ]
+    },
+    "properties": {
+    "ID":32089,
+    "name":"New Hampshire & Lockwood",
+    "count":" 18 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98107,39.04488 ]
+    },
+    "properties": {
+    "ID":32090,
+    "name":"Stewart & April",
+    "count":" 22 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98543,39.04565 ]
+    },
+    "properties": {
+    "ID":32091,
+    "name":"Stewart Ln & Old Columbia Pike",
+    "count":" 13 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94055,39.08531 ]
+    },
+    "properties": {
+    "ID":32092,
+    "name":"Castle Blvd & Castle Ln",
+    "count":" 67 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98713,39.04104 ]
+    },
+    "properties": {
+    "ID":32093,
+    "name":"White Oak Transit Center",
+    "count":" 27 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99454,39.03808 ]
+    },
+    "properties": {
+    "ID":32094,
+    "name":"Oak Leaf & Lockwood",
+    "count":" 16 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.24069,38.92927 ]
+    },
+    "properties": {
+    "ID":32200,
+    "name":"Spring Hill Metro",
+    "count":" 28 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.23596,38.92403 ]
+    },
+    "properties": {
+    "ID":32201,
+    "name":"Westpark Dr & Leesburg Pike",
+    "count":" 21 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.22118,38.91948 ]
+    },
+    "properties": {
+    "ID":32203,
+    "name":"Tysons One Pl & Chain Bridge Rd",
+    "count":" 30 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.22212,38.92093 ]
+    },
+    "properties": {
+    "ID":32204,
+    "name":"Tysons Corner Station",
+    "count":" 102 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.21765,38.92442 ]
+    },
+    "properties": {
+    "ID":32205,
+    "name":"Westpark & Jones Branch Dr",
+    "count":" 34 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.21926,38.93191 ]
+    },
+    "properties": {
+    "ID":32206,
+    "name":"Jones Branch & Westbranch Dr",
+    "count":" 15 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.22533,38.92891 ]
+    },
+    "properties": {
+    "ID":32207,
+    "name":"Westpark & Park Run Dr",
+    "count":" 33 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.23183,38.93263 ]
+    },
+    "properties": {
+    "ID":32208,
+    "name":"Tysons West Transit Center",
+    "count":" 15 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.33869,38.97005 ]
+    },
+    "properties": {
+    "ID":32209,
+    "name":"North Shore & Cameron Crescent Dr/Crescent Apartments",
+    "count":" 8 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.36190,38.96252 ]
+    },
+    "properties": {
+    "ID":32210,
+    "name":"Town Center Pkwy & Bowman Towne Dr",
+    "count":" 9 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35881,38.96209 ]
+    },
+    "properties": {
+    "ID":32211,
+    "name":"Reston Regional Library",
+    "count":" 8 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35632,38.96057 ]
+    },
+    "properties": {
+    "ID":32212,
+    "name":"New Dominion Pkwy & Fountain Dr",
+    "count":" 30 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35165,38.95508 ]
+    },
+    "properties": {
+    "ID":32213,
+    "name":"Sunset Hills & Old Reston Ave",
+    "count":" 67 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35972,38.95704 ]
+    },
+    "properties": {
+    "ID":32214,
+    "name":"Reston Town Center Transit Station",
+    "count":" 78 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.33940,38.94661 ]
+    },
+    "properties": {
+    "ID":32215,
+    "name":"Wiehle Ave & Reston Station Blvd",
+    "count":" 86 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35874,38.95963 ]
+    },
+    "properties": {
+    "ID":32216,
+    "name":"Library St & Freedom Dr",
+    "count":" 31 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35761,38.95534 ]
+    },
+    "properties": {
+    "ID":32217,
+    "name":"Sunset Hills Rd & Discovery Square",
+    "count":" 28 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35342,38.96008 ]
+    },
+    "properties": {
+    "ID":32218,
+    "name":"Temporary Rd & Old Reston Ave",
+    "count":" 37 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.36842,38.95531 ]
+    },
+    "properties": {
+    "ID":32219,
+    "name":"Reston YMCA",
+    "count":" 69 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.34037,38.95144 ]
+    },
+    "properties": {
+    "ID":32220,
+    "name":"Sunset Hills Rd & Isaac Newton Square",
+    "count":" 150 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.22746,38.92304 ]
+    },
+    "properties": {
+    "ID":32221,
+    "name":"Greensboro & International Dr",
+    "count":" 5 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.22020,38.91521 ]
+    },
+    "properties": {
+    "ID":32222,
+    "name":"Towers Crescent Dr & Tysons One Pl",
+    "count":" 18 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.34079,38.97041 ]
+    },
+    "properties": {
+    "ID":32223,
+    "name":"North Shore Dr & Village Rd",
+    "count":" 41 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.36309,38.95518 ]
+    },
+    "properties": {
+    "ID":32224,
+    "name":"Town Center Pkwy & Sunset Hills Rd",
+    "count":" 61 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35428,38.96422 ]
+    },
+    "properties": {
+    "ID":32225,
+    "name":"Reston Pkwy & Spectrum Dr",
+    "count":" 7 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.23034,38.92245 ]
+    },
+    "properties": {
+    "ID":32227,
+    "name":"Greensboro & Pinnacle Dr",
+    "count":" 24 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.33543,38.94471 ]
+    },
+    "properties": {
+    "ID":32228,
+    "name":"Campus Commons",
+    "count":" 8 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.22664,38.92755 ]
+    },
+    "properties": {
+    "ID":32229,
+    "name":"Park Run & Onyx Dr",
+    "count":" 90 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.20812,38.92400 ]
+    },
+    "properties": {
+    "ID":32230,
+    "name":"McLean Metro",
+    "count":" 55 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.22828,38.88276 ]
+    },
+    "properties": {
+    "ID":32231,
+    "name":"Dunn Loring Metro",
+    "count":" 59 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.18870,38.90011 ]
+    },
+    "properties": {
+    "ID":32232,
+    "name":"West Falls Church Metro",
+    "count":" 45 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.21569,38.92838 ]
+    },
+    "properties": {
+    "ID":32233,
+    "name":"Jones Branch Drive & Scotts Crossing Rd",
+    "count":" 18 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.23071,38.87921 ]
+    },
+    "properties": {
+    "ID":32234,
+    "name":"Merrilee Dr & Lauren Elizabeth Lane",
+    "count":" 33 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.22995,38.87009 ]
+    },
+    "properties": {
+    "ID":32235,
+    "name":"Merrifield Cinema & Merrifield Town Center",
+    "count":" 78 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35530,38.94901 ]
+    },
+    "properties": {
+    "ID":32236,
+    "name":"Vy Reston Heights",
+    "count":" 24 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35934,38.96634 ]
+    },
+    "properties": {
+    "ID":32237,
+    "name":"Baron Cameron Ave & North Hampton Ave",
+    "count":" 22 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.33778,38.93606 ]
+    },
+    "properties": {
+    "ID":32238,
+    "name":"Ridge Heights Rd & Seahawks Dr",
+    "count":" 23 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.32927,38.96685 ]
+    },
+    "properties": {
+    "ID":32239,
+    "name":"Becontree Ln & Goldenrain Ct",
+    "count":" 5 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.32676,38.97081 ]
+    },
+    "properties": {
+    "ID":32240,
+    "name":"Ring Rd & North Shore Dr",
+    "count":" 6 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35184,38.97363 ]
+    },
+    "properties": {
+    "ID":32241,
+    "name":"Reston Pkwy & Bennington Woods Rd",
+    "count":" 12 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.33435,38.96596 ]
+    },
+    "properties": {
+    "ID":32242,
+    "name":"Inlet Ct & Wiehle Dr",
+    "count":" 7 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.34255,38.96331 ]
+    },
+    "properties": {
+    "ID":32243,
+    "name":"Fairway Dr & Hook Rd",
+    "count":" 4 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.34849,38.96670 ]
+    },
+    "properties": {
+    "ID":32244,
+    "name":"Vantage Hill Rd & Wainwright Dr",
+    "count":" 11 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.33929,38.95902 ]
+    },
+    "properties": {
+    "ID":32245,
+    "name":"Links Dr & Wedge Dr",
+    "count":" 19 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35355,38.94401 ]
+    },
+    "properties": {
+    "ID":32246,
+    "name":"Golf Course Sq and Golf Course Dr",
+    "count":" 16 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.36230,38.94335 ]
+    },
+    "properties": {
+    "ID":32247,
+    "name":"South Lakes Dr and Reston Pkwy",
+    "count":" 9 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35405,38.93881 ]
+    },
+    "properties": {
+    "ID":32248,
+    "name":"Olde Crafts Dr and Cartwright Pl",
+    "count":" 19 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.36787,38.93715 ]
+    },
+    "properties": {
+    "ID":32249,
+    "name":"Green Range Dr and Glade Dr",
+    "count":" 1 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.36650,38.94150 ]
+    },
+    "properties": {
+    "ID":32250,
+    "name":"South Gate Community Center",
+    "count":" 30 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.35345,38.97850 ]
+    },
+    "properties": {
+    "ID":32251,
+    "name":"Lake Newport Rd and Autumn Ridge Cir",
+    "count":" 10 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.33165,38.93392 ]
+    },
+    "properties": {
+    "ID":32252,
+    "name":"Ridge Heights and Owl Cove Ln",
+    "count":" 38 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.34587,38.93051 ]
+    },
+    "properties": {
+    "ID":32253,
+    "name":"Soapstone Dr Convenience Center",
+    "count":" 32 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.22281,38.87861 ]
+    },
+    "properties": {
+    "ID":32255,
+    "name":"Hartland Rd & Harte Pl",
+    "count":" 34 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.34182,38.98320 ]
+    },
+    "properties": {
+    "ID":32256,
+    "name":"North Village and Park Garden",
+    "count":" 14 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.84326,38.90839 ]
+    },
+    "properties": {
+    "ID":32400,
+    "name":"1301 McCormick Dr / Wayne K. Curry Admin Bldg",
+    "count":" 9 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.84460,38.89981 ]
+    },
+    "properties": {
+    "ID":32401,
+    "name":"Largo Town Center Metro",
+    "count":" 28 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.93735,38.96958 ]
+    },
+    "properties": {
+    "ID":32402,
+    "name":"Baltimore Ave & Van Buren St / Riverdale Park Station",
+    "count":" 138 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94013,38.95549 ]
+    },
+    "properties": {
+    "ID":32403,
+    "name":"Baltimore Ave & Jefferson St",
+    "count":" 101 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.96006,38.93621 ]
+    },
+    "properties": {
+    "ID":32404,
+    "name":"Perry & 35th St",
+    "count":" 47 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.82554,38.88994 ]
+    },
+    "properties": {
+    "ID":32405,
+    "name":"Largo Rd & Campus Way / Prince Georges's Comm Col",
+    "count":" 27 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01606,38.78264 ]
+    },
+    "properties": {
+    "ID":32406,
+    "name":"Fleet St & Waterfront St",
+    "count":" 117 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00103,38.79875 ]
+    },
+    "properties": {
+    "ID":32407,
+    "name":"Oxon Hill Park & Ride",
+    "count":" 20 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94630,38.95936 ]
+    },
+    "properties": {
+    "ID":32408,
+    "name":"Oglethorpe St & 42nd Ave",
+    "count":" 64 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97530,38.84011 ]
+    },
+    "properties": {
+    "ID":32409,
+    "name":"Southern Ave Metro",
+    "count":" 34 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.95952,38.95460 ]
+    },
+    "properties": {
+    "ID":32410,
+    "name":"Queens Chapel & Hamilton St",
+    "count":" 69 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.95219,38.97551 ]
+    },
+    "properties": {
+    "ID":32411,
+    "name":"Northwestern High School",
+    "count":" 47 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99521,38.97422 ]
+    },
+    "properties": {
+    "ID":32412,
+    "name":"New Hampshire Ave & East-West Hwy",
+    "count":" 37 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.95504,38.93927 ]
+    },
+    "properties": {
+    "ID":32413,
+    "name":"Rhode Island Ave & 39th St / Brentwood Arts Exchange",
+    "count":" 31 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98065,38.97251 ]
+    },
+    "properties": {
+    "ID":32414,
+    "name":"Riggs Rd & East West Hwy",
+    "count":" 27 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00261,38.79681 ]
+    },
+    "properties": {
+    "ID":32415,
+    "name":"Tanger Outlets",
+    "count":" 66 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.99591,38.96174 ]
+    },
+    "properties": {
+    "ID":32416,
+    "name":"Chillum Rd & Riggs Rd / Riggs Plaza",
+    "count":" 75 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94929,38.96978 ]
+    },
+    "properties": {
+    "ID":32417,
+    "name":"Hyattsville Library / Adelphi Rd & Toledo Rd",
+    "count":" 39 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.96800,38.95533 ]
+    },
+    "properties": {
+    "ID":32418,
+    "name":"West Hyattsville Metro",
+    "count":" 229 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.91315,38.88852 ]
+    },
+    "properties": {
+    "ID":32419,
+    "name":"Capitol Heights Metro",
+    "count":" 54 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.95480,38.96574 ]
+    },
+    "properties": {
+    "ID":32420,
+    "name":"Prince George's Plaza Metro",
+    "count":" 129 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.93558,38.96212 ]
+    },
+    "properties": {
+    "ID":32421,
+    "name":"Riverdale Park Town Center",
+    "count":" 135 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.95417,38.96884 ]
+    },
+    "properties": {
+    "ID":32422,
+    "name":"The Mall at Prince Georges",
+    "count":" 98 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.01670,38.78590 ]
+    },
+    "properties": {
+    "ID":32423,
+    "name":"National Harbor Carousel",
+    "count":" 363 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.87801,39.00031 ]
+    },
+    "properties": {
+    "ID":32424,
+    "name":"Roosevelt Center & Crescent Rd",
+    "count":" 29 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.89125,39.00618 ]
+    },
+    "properties": {
+    "ID":32425,
+    "name":"Crescent Rd & Ridge Rd",
+    "count":" 27 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.91625,39.00246 ]
+    },
+    "properties": {
+    "ID":32426,
+    "name":"Greenbelt Station Parkway",
+    "count":" 79 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.19269,38.89642 ]
+    },
+    "properties": {
+    "ID":32600,
+    "name":"Meridian High School / Haycock Rd & Leesburg Pike",
+    "count":" 47 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.15286,38.87380 ]
+    },
+    "properties": {
+    "ID":32601,
+    "name":"Eden Center",
+    "count":" 43 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.17985,38.88835 ]
+    },
+    "properties": {
+    "ID":32602,
+    "name":"N Oak St & W Broad St",
+    "count":" 72 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.17698,38.88739 ]
+    },
+    "properties": {
+    "ID":32603,
+    "name":"Pennsylvania Ave & Park Ave",
+    "count":" 68 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.17190,38.88060 ]
+    },
+    "properties": {
+    "ID":32604,
+    "name":"E Fairfax St & S Washington St",
+    "count":" 39 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.17344,38.88359 ]
+    },
+    "properties": {
+    "ID":32605,
+    "name":"W Broad St & Little Falls St",
+    "count":" 48 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.15395,38.87809 ]
+    },
+    "properties": {
+    "ID":32606,
+    "name":"N Roosevelt St & Roosevelt Blvd",
+    "count":" 61 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.17840,38.87974 ]
+    },
+    "properties": {
+    "ID":32607,
+    "name":"S Maple Ave & S Washington St",
+    "count":" 66 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.17357,38.88542 ]
+    },
+    "properties": {
+    "ID":32608,
+    "name":"Falls Church City Hall / Park Ave & Little Falls St",
+    "count":" 39 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.16691,38.88562 ]
+    },
+    "properties": {
+    "ID":32609,
+    "name":"W Columbia St & N Washington St",
+    "count":" 51 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.98318,38.92760 ]
+    },
+    "properties": {
+    "ID":32901,
+    "name":"6035 Warehouse",
+    "count":" 9 "
+    }
+  }
+]
+}

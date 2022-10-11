@@ -86,21 +86,22 @@ body {
   header {
     position:relative;
     width:auto;
-    max-width:900px;
-    margin:0 auto 20px auto;
+    max-width:1000px;
+    margin:0 auto 10px auto;
   }
    
   header h1 {
-    margin:35px 0 0 0;
-    font-size:55px;
+    margin:5px 0 0 0;
+    font-size:31px;
     color:#ee3123;
     font-family: 'Courier New', monospace;
   }
    
   header p {
-    font-size:16px;
+    font-size:18px;
     color:#ee3123;
     margin-left:132px;
+    font-family: "monotype corsiva";
   }
 
   nav {
